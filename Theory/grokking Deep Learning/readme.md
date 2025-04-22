@@ -1,4 +1,5 @@
 # grokking Deep Learning
+https://github.com/iamtrask/Grokking-Deep-Learning/tree/master
 ## Content
 ### Introducing deep learning: why you should learn it
 ### Fundamental concepts: how do machines learn?
