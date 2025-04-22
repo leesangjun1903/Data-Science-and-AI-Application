@@ -13,9 +13,27 @@
 랜덤 변수는 서로 다른 값을 무작위로 가질 수 있는 변수입니다.
 
 ## 3.3 Probability Distributions
-### probability distribution
+#### probability distribution
 
 ### 3.3.1 Discrete Variables and Probability Mass Functions
 
 
-### 
+#### probability mass function(PMF)
+#### joint probability distribution
+
+#### uniform distribution
+
+### 3.3.2 Continuous Variables and Probability Density Functions
+#### probability density function (PDF)
+
+## 3.4 Marginal Probability
+#### marginal probability distribution
+랜덤 변수는 다양한 값을 무작위로 취할 수 있는 변수입니다. 때로는 변수 집합에 대한 확률 분포를 알고 그 중 일부에 대한 확률 분포를 알고 싶어하기도 합니다.  
+부분 집합에 대한 확률 분포를 주변 확률 분포라고 합니다.
+
+**sum rule** 에 의하여 부분집합 y 분포의 전체 합을 x 분포의 주변 분포화시키면 x 분포가 될 것입니다. 이는 연속적인 구간으로 확장시켜도 가능합니다.
+
+## 3.5 Conditional Probability
+
+
+
