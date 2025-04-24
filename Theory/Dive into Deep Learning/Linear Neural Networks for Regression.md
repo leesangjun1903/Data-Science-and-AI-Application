@@ -75,4 +75,58 @@ $$(\mathbf{w},b) \leftarrow (\mathbf{w},b) - \frac{\eta}{|\mathcal{B}|} \sum_{i 
 ### 3.1.2 Vectorization for Speed
 모델을 훈련할 때 일반적으로 전체 미니배치 예제를 동시에 처리하고자 합니다. 이를 효율적으로 수행하려면 비용이 많이 드는 Python에 for-loop을 작성하는 대신 계산을 벡터화하고 빠른 선형 대수 라이브러리를 활용해야 합니다. 
 
+### 3.1.3 The Normal Distribution and Squared Loss
+우선, 평균 𝜇과 분산 𝜎2를 갖는 정규 분포(표준 편차 𝜎)가 다음과 같이 주어짐을 기억하세요
+
+$$p(x) = \frac{1}{\sqrt{2 \pi \sigma^2}} \exp\left(-\frac{1}{2 \sigma^2} (x - \mu)^2\right).$$
+
+손실 제곱이 있는 선형 회귀를 유도하는 한 가지 방법은 노이즈 𝜖이 정규 분포 N(0, 𝜎2)를 따르는 노이즈 측정에서 관측값이 발생한다고 가정하는 것입니다:
+
+<img width="339" alt="스크린샷 2025-04-24 오후 3 53 41" src="https://github.com/user-attachments/assets/08abff4b-10e1-4a2a-81f5-c67522891745" />
+
+따라서 이제 주어진 x에 대해 특정 𝑦를 볼 가능성을 다음과 같이 쓸 수 있습니다
+
+<img width="432" alt="스크린샷 2025-04-24 오후 3 53 59" src="https://github.com/user-attachments/assets/5862cd80-7635-4644-967e-615e06a34dc0" />
+
+따라서 우도는 인수분해됩니다. 최대 우도의 원리에 따르면 매개변수 w와 𝑏의 최적 값은 전체 데이터 세트의 우도를 최대화하는 값입니다:
+
+$$P(\mathbf y \mid \mathbf X) = \prod_{i=1}^{n} p(y^{(i)} \mid \mathbf{x}^{(i)}).$$
+
+많은 지수 함수의 곱을 최대화하는 것은 어려워 보일 수 있지만, 목표를 변경하지 않고 우도의 로그를 최대화함으로써 상황을 크게 단순화할 수 있습니다.  
+역사적인 이유로 최적화는 최대화가 아닌 최소화로 표현되는 경우가 더 많습니다. 따라서 아무것도 변경하지 않고 음수 로그 우도를 최소화할 수 있으며, 이를 다음과 같이 표현할 수 있습니다:
+
+$$-\log P(\mathbf y \mid \mathbf X) = \sum_{i=1}^n \frac{1}{2} \log(2 \pi \sigma^2) + \frac{1}{2 \sigma^2} \left(y^{(i)} - \mathbf{w}^\top \mathbf{x}^{(i)} - b\right)^2.$$
+
+𝜎가 고정되어 있다고 가정하면 첫 번째 항은 w나 𝑏에 의존하지 않기 때문에 무시할 수 있습니다.  
+두 번째 항은 앞서 소개한 제곱 오차 손실과 동일하지만 곱셈 상수 $\frac{1}{𝜎^2}$를 제외하고는 마찬가지입니다. 다행히도 해는 𝜎에 의존하지 않습니다. 따라서 평균 제곱 오차를 최소화하는 것은 가우시안 노이즈를 가정한 선형 모델의 최대 우도 추정과 동일합니다.
+
+### 3.1.4 Linear Regression as a Neural Network
+
+<img width="703" alt="스크린샷 2025-04-24 오후 3 59 32" src="https://github.com/user-attachments/assets/e382b1cd-2bbc-4ba1-a3b5-46ae4fb9da61" />
+
+입력값은 𝑥1,...,𝑥𝑑입니다. 우리는 𝑑를 입력 레이어의 입력 수 또는 특징 차원으로 부릅니다.  
+네트워크의 출력은 𝑜1입니다. 단일 수치 값을 예측하려고 하기 때문에 출력 뉴런은 하나뿐입니다.  
+입력 값은 모두 주어져 있습니다. 계산된 뉴런은 하나뿐입니다.  
+요약하자면, 선형 회귀는 단일 레이어로 완전히 연결된 신경망(fully connected neural network)이라고 생각할 수 있습니다.
+
+## 3.2 Object-Oriented Design for Implementation
+### 3.2.1 Utilities
+
+## 3.3 Synthetic Regression Data
+### 3.3.1 Generating the Dataset
+이 예제에서는 간결성을 위해 저차원에서 작업할 것입니다. 다음 코드 스니펫은 표준 정규 분포에서 추출한 2차원 특징을 포함한 1000개의 예제를 생성합니다.  
+결과적으로 생성된 설계 행렬 X는 R1000×2에 속합니다. 우리는 각 예제에 대해 독립적이고 동일하게 그려진 가산 잡음 𝝐을 통해 이를 손상시키는 지상 진리 선형 함수를 적용하여 각 레이블을 생성합니다:
+
+편의상, 우리는 𝝐가 평균 𝜇= 0이고 표준 편차 𝜎 = 0.01인 정규 분포에서 도출된다고 가정합니다. 
+
+### 3.3.2 Reading the Dataset
+
+
+
+## 3.4 Linear Regression Implementation from Scratch
+
+
+## 3.6. Generalization
+실제로 우리는 유한한 데이터 집합을 사용하여 모델을 맞춰야 합니다. 해당 데이터의 일반적인 규모는 도메인마다 크게 다릅니다. 
+### 3.6.1 Training Error and Generalization Error
 
