@@ -57,11 +57,6 @@ Convnet calculator : https://madebyollin.github.io/convnet-calculator/
 ## Reinforcement Learning
 - Quantile Regression DQN - RL : https://www.kaggle.com/code/auxeno/quantile-regression-dqn-rl
 
-## NLP
-- Beginner to Intermediate Natural Language Processing Guide - NowYSM https://www.kaggle.com/code/ashishpatel26/beginner-to-intermediate-nlp-tutorial/notebook : sklearn + logistic Regression을 활용한 감성분석(긍/부정 표현 판별)
-- Deep Learning NLP Quora Solutions - https://www.kaggle.com/code/ashishpatel26/deep-learning-nlp-quora-solutions : NowYSM 딥러닝(Keras)을 활용한 악성(사회적으로 문제가 될 수 있는, 질이 나쁜) 질문 판별
-- NLP Quick Start for Newbie😁 with 9steps https://www.kaggle.com/code/songseungwon/nlp-quick-start-for-newbie-with-9steps : Seungwon Song 재난 트위터를 활용한 가짜 뉴스 판별기 구현
-
 ## Lecture
 - Computer Science courses with video lectures https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file#machine-learning
 - PRML정리 문서 Pattern Recognition & Machien Learning, Bishop http://norman3.github.io/prml/
