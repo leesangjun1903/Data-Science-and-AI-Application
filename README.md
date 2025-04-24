@@ -54,37 +54,6 @@ Convnet calculator : https://madebyollin.github.io/convnet-calculator/
 - Deep Understanding Of Deep Learning : https://github.com/mikexcohen/DeepUnderstandingOfDeepLearning/tree/main
 - (DMQA) Python-codes-for-machine-learning-algorithms : https://github.com/DMQA/Python-codes-for-machine-learning-algorithms
 
-## Computer Vision
-- Mask Verification https://github.com/ddiddu/cs470team1/tree/master   
-- Easy Few-Shot Learning https://github.com/sicara/easy-few-shot-learning/tree/master
-- OpenCV를 활용한 컴퓨터 비전 스터디 https://github.com/engineerjkk/Image_Processing/tree/main
-- Satellite-image-deep-learning https://github.com/satellite-image-deep-learning/techniques?tab=readme-ov-file
-- hloc - the hierarchical localization toolbox https://github.com/cvg/Hierarchical-Localization?tab=readme-ov-file   
-- DEEP-IMAGE-MATCHING https://github.com/3DOM-FBK/deep-image-matching  
-- 3D Reconstruction using Structure from Motion https://github.com/harish-vnkt/structure-from-motion
-- Awesome-Local-Feature-Matching https://github.com/vignywang/Awesome-Local-Feature-Matching?tab=readme-ov-file#Detector-based-Models
-- SOTA in Computer vision, two excellent resources https://www.kaggle.com/competitions/statoil-iceberg-classifier-challenge/discussion/44102
-- [Tutorial] Image Feature Extraction and Matching https://www.kaggle.com/code/wesamelshamy/tutorial-image-feature-extraction-and-matching
-- Deep Autoenconder - PyTorch - Image Reconstruction https://www.kaggle.com/code/drvaibhavkumar/deep-autoenconder-pytorch-image-reconstruction
-- Segment Anything https://github.com/facebookresearch/segment-anything/tree/main
-- Classifying custom image datasets by creating Convolutional Neural Networks and Residual Networks from scratch with PyTorch https://github.com/Rumeysakeskin/EuroSat-Satellite-CNN-and-ResNet/tree/main
-- Deep Learning Tutorials using PyTorch (PseudoLab) https://github.com/Pseudo-Lab/Tutorial-Book?tab=readme-ov-file
-- Joeun Park https://github.com/corazzon
-- Exploring-the-MLP-Mixer-Architecture for Image Classification: Performance Evaluation, Tuning, and Ablation Study on MNIST Dataset https://github.com/sijan67/Exploring-the-MLP-Mixer-Architecture/tree/main?tab=readme-ov-file
-- 논문으로 짚어보는 딥러닝의 맥 : https://www.boostcourse.org/deeplearningchoi/joinLectures/10979
-- image classification with qnn-inference-examples : https://github.com/maltanar/qnn-inference-examples
-- Classifying animals using SOTA Models : https://www.kaggle.com/code/aymenkhouja/classifying-animals-using-sota-models/notebook
-- 365 Days Computer Vision Learning LinkedIn Post : https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post
-- Semantic Segmentation을 위한 U-Net 모델 : https://dacon.io/forum/405807
-- Top 10 Open Source Computer Vision Repositories : https://encord.com/blog/open-source-computer-vision-repositories/
-- Understanding and Calculating the number of Parameters in Convolution Neural Networks (CNNs) : https://towardsdatascience.com/understanding-and-calculating-the-number-of-parameters-in-convolution-neural-networks-cnns-fc88790d530d
-- object detection 개요 [딥러닝 컴퓨터 비전 완벽가이드 필기] : https://check-this.tistory.com/6
-- Artificial Images : https://github.com/dvschultz/ai/tree/master
-- LearnOpenCV https://github.com/spmallick/learnopencv/tree/master?tab=readme-ov-file
-- PyTorch-GAN : https://github.com/eriklindernoren/PyTorch-GAN/tree/master?tab=readme-ov-file#super-resolution-gan
-- Three Ways of Storing and Accessing Lots of Images in Python : https://realpython.com/storing-images-in-python/
-- Deep Learning Projects : https://github.com/aswintechguy/Deep-Learning-Projects/tree/main
-
 ## Reinforcement Learning
 - Quantile Regression DQN - RL : https://www.kaggle.com/code/auxeno/quantile-regression-dqn-rl
 
