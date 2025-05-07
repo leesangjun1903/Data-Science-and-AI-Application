@@ -151,6 +151,3 @@ Mistral https://chat.mistral.ai/chat
 - https://eehoeskrap.tistory.com/
 - https://dsaint31.tistory.com/category/Programming
 
-## Control AI  
-https://shelf.io/blog/how-to-control-ai-ensuring-ai-remains-manageable-and-safe/
-
