@@ -14,6 +14,7 @@
 - Awesome Deep Learning : https://github.com/ChristosChristofidis/awesome-deep-learning?tab=readme-ov-file#tutorials
 
 # 유용한 Data Science site
+인공지능(AI) & 머신러닝(ML) 사전 : https://wikidocs.net/book/5942
 https://fall2019.fullstackdeeplearning.com/ : 딥러닝의 기본적인 것들을 이미 알고있는 사람들이 실제로 DL Production을 만드는 과정을 이해하기 위한 강의다.  
 머신러닝 관련 도서 로드맵 https://www.mindmeister.com/812276967/_?fullscreen=1  
 데이콘 https://dacon.io/  
