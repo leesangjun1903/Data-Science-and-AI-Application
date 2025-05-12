@@ -1,6 +1,8 @@
 # Dive into Deep Learning
 https://d2l.ai/index.html
 
+https://coronasdk.tistory.com/category/Dive%20into%20Deep%20Learning
+
 ### Data Manipulation
 ### Data Preprocessing
 ### Linear Algebra
