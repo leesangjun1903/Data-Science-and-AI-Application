@@ -40,8 +40,6 @@ Convnet calculator : https://madebyollin.github.io/convnet-calculator/
 - 핸즈온 머신러닝(2판) https://formal.hknu.ac.kr/handson-ml2/ , https://github.com/liganega/handson-ml2/tree/master
 - 데이터 과학자를 위한 실전 머신러닝 https://github.com/giwoong2/doit_hands-on_ML
 - CS565600 Deep Learning(Notebook만 코딩) : https://nthu-datalab.github.io/ml/
-- 파이썬 증권 데이터 분석 (Stock Analysis in Python) https://github.com/INVESTAR/StockAnalysisInPython
-- 딥러닝을 이용한 자연어 처리 입문 https://wikidocs.net/book/2155
 - Zero to Mastery Learn PyTorch for Deep Learning : https://www.learnpytorch.io/
 - Beginner Level Deep Learning Tutorials in Pytorch! : https://github.com/LukeDitria/pytorch_tutorials/tree/main
 - Companion Jupyter notebooks for the book "Deep Learning with Python" : https://github.com/fchollet/deep-learning-with-python-notebooks?tab=readme-ov-file
