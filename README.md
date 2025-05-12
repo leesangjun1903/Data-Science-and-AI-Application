@@ -32,7 +32,6 @@ Convnet calculator : https://madebyollin.github.io/convnet-calculator/
 ## ML and Deep Learning
 - Pytorch Tutorials : https://github.com/pytorch/tutorials/tree/main
 - Deep Learning Bible : https://wikidocs.net/profile/info/book/14245
-- Understanding Deep Learning https://udlbook.github.io/udlbook/
 - Machine Learning Study 혼자 해보기 https://github.com/teddylee777/machine-learning/tree/master?tab=readme-ov-file
 - 텐서 플로우 블로그 (Tensor ≈ Blog) https://tensorflow.blog/book-roadmap/
 - PyTorch로 시작하는 딥 러닝 입문 https://wikidocs.net/book/2788
