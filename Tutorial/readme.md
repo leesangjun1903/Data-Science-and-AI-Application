@@ -1,4 +1,5 @@
 # Tutorial
+
 ## ML and Deep Learning
 - Pytorch Tutorials : https://github.com/pytorch/tutorials/tree/main
 - Deep Learning Bible : https://wikidocs.net/profile/info/book/14245
@@ -19,3 +20,4 @@
 - DeepLearning-Summary : https://github.com/taki0112/Awesome-DeepLearning-Study?tab=readme-ov-file
 - Deep Understanding Of Deep Learning : https://github.com/mikexcohen/DeepUnderstandingOfDeepLearning/tree/main
 - (DMQA) Python-codes-for-machine-learning-algorithms : https://github.com/DMQA/Python-codes-for-machine-learning-algorithms
+- Top DeepLearning tutorials and curated projects : https://github.com/ajay-sreeram/Deep-Learning-is-Awesome?tab=readme-ov-file
