@@ -28,29 +28,6 @@ Coding Interview University https://github.com/jwasham/coding-interview-universi
 프로그래머 필독서 64선 https://blog.naver.com/wikiware/100042152479  
 Convnet calculator : https://madebyollin.github.io/convnet-calculator/
 
-# Tutorial
-## ML and Deep Learning
-- Pytorch Tutorials : https://github.com/pytorch/tutorials/tree/main
-- Deep Learning Bible : https://wikidocs.net/profile/info/book/14245
-- Machine Learning Study 혼자 해보기 https://github.com/teddylee777/machine-learning/tree/master?tab=readme-ov-file
-- 텐서 플로우 블로그 (Tensor ≈ Blog) https://tensorflow.blog/book-roadmap/
-- PyTorch로 시작하는 딥 러닝 입문 https://wikidocs.net/book/2788
-- 논문으로 짚어보는 딥러닝의 맥 https://www.edwith.org/deeplearningchoi/joinLectures/10979
-- Tensorflow Tutorials using Jupyter Notebook https://github.com/sjchoi86/Tensorflow-101/tree/master?tab=readme-ov-file
-- 핸즈온 머신러닝(2판) https://formal.hknu.ac.kr/handson-ml2/ , https://github.com/liganega/handson-ml2/tree/master
-- 데이터 과학자를 위한 실전 머신러닝 https://github.com/giwoong2/doit_hands-on_ML
-- CS565600 Deep Learning(Notebook만 코딩) : https://nthu-datalab.github.io/ml/
-- Zero to Mastery Learn PyTorch for Deep Learning : https://www.learnpytorch.io/
-- Beginner Level Deep Learning Tutorials in Pytorch! : https://github.com/LukeDitria/pytorch_tutorials/tree/main
-- Companion Jupyter notebooks for the book "Deep Learning with Python" : https://github.com/fchollet/deep-learning-with-python-notebooks?tab=readme-ov-file
-- Papers in 100 Lines of Code : https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main
-- Awesome deep learning and machine learning tutorials : https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#datasets
-- Great-Deep-Learning-Tutorials : https://github.com/ahkarami/Great-Deep-Learning-Tutorials?tab=readme-ov-file
-- DeepLearning-Summary : https://github.com/taki0112/Awesome-DeepLearning-Study?tab=readme-ov-file
-- Deep Understanding Of Deep Learning : https://github.com/mikexcohen/DeepUnderstandingOfDeepLearning/tree/main
-- (DMQA) Python-codes-for-machine-learning-algorithms : https://github.com/DMQA/Python-codes-for-machine-learning-algorithms
-
-
 ## Lecture
 - Computer Science courses with video lectures https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file#machine-learning
 - PRML정리 문서 Pattern Recognition & Machien Learning, Bishop http://norman3.github.io/prml/
