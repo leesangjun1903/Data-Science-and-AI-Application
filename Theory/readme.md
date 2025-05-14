@@ -784,6 +784,8 @@ Chapter 8 ■ How to Read a Model
 
 
 # ETC
-Reproducing Kernel Hilbert Space, Mercer’s Theorem, Eigenfunctions, Nystr¨ om Method, and Use of Kernels in Machine Learning: Tutorial and Survey, Benyamin Ghojogh  
-An Introduction to Reproducing Kernel Hilbert Spaces and Why They are So Useful, Grace Wahba  
-EVOLUTION OF YOLO ALGORITHM AND YOLOV5: THE STATE-OF-THE-ART OBJECT DETECTION ALGORITHM, Do Thuan
+- Reproducing Kernel Hilbert Space, Mercer’s Theorem, Eigenfunctions, Nystr¨ om Method, and Use of Kernels in Machine Learning: Tutorial and Survey, Benyamin Ghojogh  
+- An Introduction to Reproducing Kernel Hilbert Spaces and Why They are So Useful, Grace Wahba  
+- EVOLUTION OF YOLO ALGORITHM AND YOLOV5: THE STATE-OF-THE-ART OBJECT DETECTION ALGORITHM, Do Thuan  
+- Functional Gradient Descent https://simple-complexities.github.io/optimization/functional/gradient/descent/2020/03/04/functional-gradient-descent.html
+- Reproducing Kernel Hilbert Space https://nzer0.github.io/reproducing-kernel-hilbert-space.html
