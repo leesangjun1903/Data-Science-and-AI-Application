@@ -35,8 +35,6 @@ NLP 학회 논문 : https://m.blog.naver.com/pianadev/222965217320
 ## Lecture
 - Computer Science courses with video lectures https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file#machine-learning
 - PRML정리 문서 Pattern Recognition & Machien Learning, Bishop http://norman3.github.io/prml/
-- Functional Gradient Descent https://simple-complexities.github.io/optimization/functional/gradient/descent/2020/03/04/functional-gradient-descent.html
-- Reproducing Kernel Hilbert Space https://nzer0.github.io/reproducing-kernel-hilbert-space.html
 - Regularization Methods for Machine Learning Lab https://lcsl.unige.it/courses/regml/regml2020/  
 - Statistical Learning Theory and Applications https://www.mit.edu/~9.520/fall19/#briefsyllabus
 - Mathematical Statistics https://ocw.mit.edu/courses/18-655-mathematical-statistics-spring-2016/pages/lecture-notes/
