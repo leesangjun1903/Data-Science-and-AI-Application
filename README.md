@@ -20,13 +20,17 @@ https://fall2019.fullstackdeeplearning.com/ : 딥러닝의 기본적인 것들�
 위키독스 https://wikidocs.net/  
 머신러닝 레딧 https://www.reddit.com/r/MachineLearning/  
 코드 오류 해결 : https://stackoverflow.com/  
+프로그래머 필독서 64선 https://blog.naver.com/wikiware/100042152479  
+Coding Interview University https://github.com/jwasham/coding-interview-university/blob/main/translations/README-ko.md#%EC%9D%B4%EA%B1%B4-%EB%8C%80%EC%B2%B4-%EB%AD%90%ED%95%98%EB%8A%94-%EA%B1%B4%EA%B0%80%EC%9A%94  
+
+## Conference Paper site
 Journal of Machine Learning Research https://jmlr.org/papers/  
 Deep Learning Monitor https://deeplearn.org/  
 AI 논문 사이트 모음 https://sohyunwriter.tistory.com/59  
 Best Computer Science Conferences https://research.com/conference-rankings/computer-science  
-Coding Interview University https://github.com/jwasham/coding-interview-university/blob/main/translations/README-ko.md#%EC%9D%B4%EA%B1%B4-%EB%8C%80%EC%B2%B4-%EB%AD%90%ED%95%98%EB%8A%94-%EA%B1%B4%EA%B0%80%EC%9A%94  
-프로그래머 필독서 64선 https://blog.naver.com/wikiware/100042152479  
-Convnet calculator : https://madebyollin.github.io/convnet-calculator/
+Convnet calculator : https://madebyollin.github.io/convnet-calculator/  
+Computer Vision 학회 논문 : https://rollingpig.tistory.com/26  
+NLP 학회 논문 : https://m.blog.naver.com/pianadev/222965217320  
 
 ## Lecture
 - Computer Science courses with video lectures https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file#machine-learning
