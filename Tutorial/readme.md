@@ -4,7 +4,7 @@
 - Deep Learning Bible : https://wikidocs.net/profile/info/book/14245
 - Machine Learning Study 혼자 해보기 https://github.com/teddylee777/machine-learning/tree/master?tab=readme-ov-file
 - 텐서 플로우 블로그 (Tensor ≈ Blog) https://tensorflow.blog/book-roadmap/
-- PyTorch로 시작하는 딥 러닝 입문 https://wikidocs.net/book/2788
+- 딥 러닝 파이토치 교과서 - 입문부터 파인튜닝까지 https://wikidocs.net/book/2788
 - 논문으로 짚어보는 딥러닝의 맥 https://www.edwith.org/deeplearningchoi/joinLectures/10979
 - Tensorflow Tutorials using Jupyter Notebook https://github.com/sjchoi86/Tensorflow-101/tree/master?tab=readme-ov-file
 - 핸즈온 머신러닝(2판) https://formal.hknu.ac.kr/handson-ml2/ , https://github.com/liganega/handson-ml2/tree/master
