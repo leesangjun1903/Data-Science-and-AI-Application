@@ -9,7 +9,6 @@
 - Awesome TDL : https://github.com/lrnzgiusti/awesome-topological-deep-learning?tab=readme-ov-file
 - Project Based Learning https://github.com/tuvtran/project-based-learning
 - Paper with code(~2018) https://github.com/zziz/pwc
-- Top DeepLearning tutorials and curated projects : https://github.com/ajay-sreeram/Deep-Learning-is-Awesome?tab=readme-ov-file
 - Awesome Deep learning papers and other resources : https://github.com/endymecy/awesome-deeplearning-resources
 - Awesome Deep Learning : https://github.com/ChristosChristofidis/awesome-deep-learning?tab=readme-ov-file#tutorials
 
