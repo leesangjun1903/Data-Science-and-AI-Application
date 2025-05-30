@@ -11,6 +11,7 @@
 - Paper with code(~2018) https://github.com/zziz/pwc
 - Awesome Deep learning papers and other resources : https://github.com/endymecy/awesome-deeplearning-resources
 - Awesome Deep Learning : https://github.com/ChristosChristofidis/awesome-deep-learning?tab=readme-ov-file#tutorials
+- Winning solutions of kaggle competitions : https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook
 
 # 유용한 Data Science site
 인공지능(AI) & 머신러닝(ML) 사전 : https://wikidocs.net/book/5942  
