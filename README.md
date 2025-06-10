@@ -59,7 +59,7 @@ Deepseekcode https://chat.deepseek.com/
 Mistral https://chat.mistral.ai/chat
 
 # ETC(Blog)
-- https://github.com/smfelixchoi?tab=repositories
+- Towards Data Science : https://towardsdatascience.com/
 - ddiddu blog https://ddiddu.medium.com/ 
 - https://seongqjini.com/category/deeplearning/
 - Meta Learning https://bigwaveai.tistory.com/18
