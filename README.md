@@ -60,11 +60,11 @@ Mistral https://chat.mistral.ai/chat
 
 # ETC(Blog)
 - Towards Data Science : https://towardsdatascience.com/
-- ddiddu blog https://ddiddu.medium.com/ 
-- https://seongqjini.com/category/deeplearning/
-- Meta Learning https://bigwaveai.tistory.com/18
-- 클래스 불균형 다루기 https://hyeonchan523.tistory.com/3
-- Robotics, 3D-Vision, Deep-Learning https://velog.io/@wilko97/posts
+- 2021년 기준 Image Classification, Segementation : https://ddiddu.medium.com/ 
+- Diffusion model, 미분방정식 등 : https://seongqjini.com/category/deeplearning/
+- LLM , Neural Prophet, Meta Learning 등 : https://bigwaveai.tistory.com/
+- 모델 클래스 불균형 다루기, python 구축 https://hyeonchan523.tistory.com/3
+- Robotics, 3D-Vision, 논문(3D) 소개 : https://velog.io/@wilko97/posts
 - [딥러닝 with 파이썬] Segmentation 평가지표 (Pixel Accuracy, IOU, Dice Coefficient(F1 score), Precision & Recall 등) https://jaylala.tistory.com/entry/딥러닝-with-파이썬-Segmentation-평가지표-Pixel-Accuracy-IOU-Dice-CoefficientF1-score-Precision-Recall-등
 - [딥러닝] Dice Coefficient 설명, pytorch 코드(segmentation 평가방법) https://minimin2.tistory.com/179
 - https://velog.io/@seolryung/posts
