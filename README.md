@@ -72,22 +72,21 @@ NLP 학회 논문 : https://m.blog.naver.com/pianadev/222965217320
 - 2025년 기준 Transformer, Meta Learning, CNN https://jrc-park.tistory.com/
 - 라온피플 : Camera, ML, CNN, Sementic Segmentation, GAN, OpenCV https://m.blog.naver.com/PostList.naver?blogId=laonple&categoryNo=31&logCode=0&tab=1
 - 2024년 기준 컴퓨터 비전, 캐글 안내서, 논문 리뷰 https://bkshin.tistory.com/
-- https://pinkwink.kr/category/Theory/DeepLearning
+- 로봇, AI https://pinkwink.kr/category/Theory/DeepLearning
 - 데이터 사이언스 스쿨 https://datascienceschool.net/intro.html
-- https://velog.io/@cha-suyeon/posts
-- https://ysco.tistory.com/
-- https://minimin2.tistory.com/
-- https://yeong-jin-data-blog.tistory.com/
-- https://strutive07.github.io/
-- https://devkihyun.github.io/
+- Python, Data Structure, Backend https://velog.io/@cha-suyeon/posts
+- 2022년 기준 U-net 논문 리뷰 https://ysco.tistory.com/
+- 2023년 기준 가격 예측 공모전, 딥러닝, 머신러닝, 논문 리뷰 https://yeong-jin-data-blog.tistory.com/
+- 2020년 기준 백준문제, 알고리즘, 딥러닝, 머신러닝 이론 https://strutive07.github.io/
+- Super-Resolution, Segmentation , Flow Model 논문 리뷰 https://devkihyun.github.io/
 - https://bigdatamaster.tistory.com/
-- https://dbstndi6316.tistory.com/
-- https://limitsinx.tistory.com/
-- https://076923.github.io/
-- https://hyunlee103.tistory.com/
-- https://ssung-22.tistory.com/
-- https://deep-learning-study.tistory.com/
-- https://rfriend.tistory.com/
+- 알고리즘 문제풀이 https://dbstndi6316.tistory.com/
+- AI, Deep Learning Framework, Engineering https://limitsinx.tistory.com/
+- OpenCV, Pytorch, Computer Vision, AI https://076923.github.io/
+- NLP , BERT, DL paper https://hyunlee103.tistory.com/
+- 알고리즘, 비정형 데이터, 딥러닝, 머신러닝 https://ssung-22.tistory.com/
+- 논문 읽기 https://deep-learning-study.tistory.com/
+- Python 분석과 프로그래밍, Deep Learning https://rfriend.tistory.com/
 - https://gils-lab.tistory.com/
 - https://rhcsky.tistory.com/
 - https://jhyeup.tistory.com/?page=3
