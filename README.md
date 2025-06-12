@@ -24,7 +24,8 @@ huggingface : https://huggingface.co/
 프로그래머 필독서 64선 https://blog.naver.com/wikiware/100042152479  
 Coding Interview University https://github.com/jwasham/coding-interview-university/blob/main/translations/README-ko.md#%EC%9D%B4%EA%B1%B4-%EB%8C%80%EC%B2%B4-%EB%AD%90%ED%95%98%EB%8A%94-%EA%B1%B4%EA%B0%80%EC%9A%94  
 Deepseekcode https://chat.deepseek.com/  
-Mistral https://chat.mistral.ai/chat
+Mistral https://chat.mistral.ai/chat  
+List of all Regression, Classification and Clustering models : https://www.kaggle.com/discussions/general/309745
 
 ## Conference Paper site
 Journal of Machine Learning Research https://jmlr.org/papers/  
@@ -56,22 +57,21 @@ NLP 학회 논문 : https://m.blog.naver.com/pianadev/222965217320
 - 500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲 https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code?tab=readme-ov-file
 - ARC Prize 2024 : https://www.kaggle.com/competitions/arc-prize-2024/code?competitionId=67357&sortBy=voteCount&excludeNonAccessedDatasources=true
 
-# ETC(Blog)
+# ETC
 - Towards Data Science : https://towardsdatascience.com/
 - 2021년 기준 Image Classification, Segementation : https://ddiddu.medium.com/ 
 - Diffusion model, 미분방정식 등 : https://seongqjini.com/category/deeplearning/
 - LLM , Neural Prophet, Meta Learning 등 : https://bigwaveai.tistory.com/
 - 모델 클래스 불균형 다루기, python 구축 https://hyeonchan523.tistory.com/3
-- Robotics, 3D-Vision, 논문(3D) 소개 : https://velog.io/@wilko97/posts
+- Robotics, 3D-Vision, 논문(3D) 소개 : https://velog.io/@wilko97/posts, https://github.com/PHANTOM0122?tab=repositories
 - [딥러닝 with 파이썬] [Machine Learning with 파이썬] : https://jaylala.tistory.com/
 - Python, Ubuntu(Linux), ML, DL 코드구현 : https://minimin2.tistory.com/179
 - 2023년 기준 EDA, Python 자료구조, 알고리즘 스터디 : https://velog.io/@seolryung/posts
-- HEEJOON MOON https://github.com/PHANTOM0122?tab=repositories
 - [매핑 & 로컬라이제이션 챌린지] 데이터셋 구축 과정과 베이스라인 측위 기법 https://www.naverlabs.com/storyDetail/161
-- https://stanford.edu/~shervine/
-- https://jrc-park.tistory.com/
-- https://m.blog.naver.com/PostList.naver?blogId=laonple&categoryNo=31&logCode=0&tab=1
-- https://bkshin.tistory.com/
+- SQL, Python, R, Git ,CS 221, CS 229, CS 230, CME 102, CME 106 https://stanford.edu/~shervine/
+- 2025년 기준 Transformer, Meta Learning, CNN https://jrc-park.tistory.com/
+- 라온피플 : Camera, ML, CNN, Sementic Segmentation, GAN, OpenCV https://m.blog.naver.com/PostList.naver?blogId=laonple&categoryNo=31&logCode=0&tab=1
+- 2024년 기준 컴퓨터 비전, 캐글 안내서, 논문 리뷰 https://bkshin.tistory.com/
 - https://pinkwink.kr/category/Theory/DeepLearning
 - 데이터 사이언스 스쿨 https://datascienceschool.net/intro.html
 - https://velog.io/@cha-suyeon/posts
