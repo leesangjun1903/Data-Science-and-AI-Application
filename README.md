@@ -88,12 +88,12 @@ NLP 학회 논문 : https://m.blog.naver.com/pianadev/222965217320
 - 논문 읽기 https://deep-learning-study.tistory.com/
 - Python 분석과 프로그래밍, Deep Learning https://rfriend.tistory.com/
 - https://gils-lab.tistory.com/
-- https://rhcsky.tistory.com/
-- https://jhyeup.tistory.com/?page=3
-- https://dlgari33.tistory.com/
-- https://mvje.tistory.com/
-- https://dslyh01.tistory.com/
-- https://ambitious-posong.tistory.com/category/AIML%20%EB%B6%84%EC%95%BC
+- Prototypical Network, Siamese Neural Network : https://rhcsky.tistory.com/
+- 3D, 2D Vision 논문 https://jhyeup.tistory.com/?page=3
+- 딥러닝 논문 리뷰 https://dlgari33.tistory.com/
+- 3D Vision, DL, ML https://mvje.tistory.com/
+- AE, Word2Vec, NLP 기초 https://dslyh01.tistory.com/
+- AI, ML 주식 트레이드(?) https://ambitious-posong.tistory.com/
 - https://kimjy99.github.io/categories/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0/CV/
 - https://ai-com.tistory.com/
 - https://velog.io/@lee9843/posts
@@ -103,7 +103,6 @@ NLP 학회 논문 : https://m.blog.naver.com/pianadev/222965217320
 - https://lilianweng.github.io/ : https://lilianweng.github.io/posts/2021-07-11-diffusion-models/
 - https://ffighting.net/
 - https://thecho7.tistory.com/
-- 라온 피플 Vision 블로그 https://blog.naver.com/laonple/220463627091
 - ratsgo's 블로그 https://ratsgo.github.io/blog/categories/
 - 송호연 - 인공지능 1학년 브런치 https://brunch.co.kr/magazine/ai-first
 - 카카오 - AI 브런치 https://brunch.co.kr/magazine/kakaoaireport
