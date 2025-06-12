@@ -1,5 +1,5 @@
 # DL Research
-- Goggle Scholar https://scholar.google.com/
+- Goggle Scholar : https://scholar.google.com/
 - Awesome AI & Data GitHub-Repos https://github.com/youssefHosni/Awesome-AI-Data-GitHub-Repos?tab=readme-ov-file
 - Awesome Recurrent Neural Networks https://github.com/kjw0612/awesome-rnn
 - Awesome Deep Vision https://github.com/kjw0612/awesome-deep-vision
@@ -15,8 +15,6 @@
 
 # 유용한 Data Science site
 인공지능(AI) & 머신러닝(ML) 사전 : https://wikidocs.net/book/5942  
-https://fall2019.fullstackdeeplearning.com/ : 딥러닝의 기본적인 것들을 이미 알고있는 사람들이 실제로 DL Production을 만드는 과정을 이해하기 위한 강의다.  
-Google 머신러닝 교육 : https://developers.google.com/machine-learning?hl=ko, https://developers.google.com/machine-learning/crash-course?hl=ko  
 codeocean : https://codeocean.com/explore?page=1&filter=all  
 huggingface : https://huggingface.co/  
 데이콘 https://dacon.io/  
@@ -25,6 +23,8 @@ huggingface : https://huggingface.co/
 코드 오류 해결 : https://stackoverflow.com/  
 프로그래머 필독서 64선 https://blog.naver.com/wikiware/100042152479  
 Coding Interview University https://github.com/jwasham/coding-interview-university/blob/main/translations/README-ko.md#%EC%9D%B4%EA%B1%B4-%EB%8C%80%EC%B2%B4-%EB%AD%90%ED%95%98%EB%8A%94-%EA%B1%B4%EA%B0%80%EC%9A%94  
+Deepseekcode https://chat.deepseek.com/  
+Mistral https://chat.mistral.ai/chat
 
 ## Conference Paper site
 Journal of Machine Learning Research https://jmlr.org/papers/  
@@ -36,6 +36,8 @@ Computer Vision 학회 논문 : https://rollingpig.tistory.com/26
 NLP 학회 논문 : https://m.blog.naver.com/pianadev/222965217320  
 
 ## Lecture
+- https://fall2019.fullstackdeeplearning.com/ : 딥러닝의 기본적인 것들을 이미 알고있는 사람들이 실제로 DL Production을 만드는 과정을 이해하기 위한 강의다.  
+- Google 머신러닝 교육 : https://developers.google.com/machine-learning?hl=ko, https://developers.google.com/machine-learning/crash-course?hl=ko  
 - Computer Science courses with video lectures https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file#machine-learning
 - Regularization Methods for Machine Learning Lab https://lcsl.unige.it/courses/regml/regml2020/  
 - Statistical Learning Theory and Applications https://www.mit.edu/~9.520/fall19/#briefsyllabus
@@ -54,10 +56,6 @@ NLP 학회 논문 : https://m.blog.naver.com/pianadev/222965217320
 - 500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲 https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code?tab=readme-ov-file
 - ARC Prize 2024 : https://www.kaggle.com/competitions/arc-prize-2024/code?competitionId=67357&sortBy=voteCount&excludeNonAccessedDatasources=true
 
-## 도움주는 NLP model
-Deepseekcode https://chat.deepseek.com/  
-Mistral https://chat.mistral.ai/chat
-
 # ETC(Blog)
 - Towards Data Science : https://towardsdatascience.com/
 - 2021년 기준 Image Classification, Segementation : https://ddiddu.medium.com/ 
@@ -66,8 +64,8 @@ Mistral https://chat.mistral.ai/chat
 - 모델 클래스 불균형 다루기, python 구축 https://hyeonchan523.tistory.com/3
 - Robotics, 3D-Vision, 논문(3D) 소개 : https://velog.io/@wilko97/posts
 - [딥러닝 with 파이썬] [Machine Learning with 파이썬] : https://jaylala.tistory.com/
-- [딥러닝] Dice Coefficient 설명, pytorch 코드(segmentation 평가방법) https://minimin2.tistory.com/179
-- https://velog.io/@seolryung/posts
+- Python, Ubuntu(Linux), ML, DL 코드구현 : https://minimin2.tistory.com/179
+- 2023년 기준 EDA, Python 자료구조, 알고리즘 스터디 : https://velog.io/@seolryung/posts
 - HEEJOON MOON https://github.com/PHANTOM0122?tab=repositories
 - [매핑 & 로컬라이제이션 챌린지] 데이터셋 구축 과정과 베이스라인 측위 기법 https://www.naverlabs.com/storyDetail/161
 - https://stanford.edu/~shervine/
