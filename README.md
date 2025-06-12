@@ -15,6 +15,7 @@
 
 # 유용한 Data Science site
 인공지능(AI) & 머신러닝(ML) 사전 : https://wikidocs.net/book/5942  
+The latest research from Google : https://research.google/blog/  
 codeocean : https://codeocean.com/explore?page=1&filter=all  
 huggingface : https://huggingface.co/  
 데이콘 https://dacon.io/  
@@ -25,7 +26,8 @@ huggingface : https://huggingface.co/
 Coding Interview University https://github.com/jwasham/coding-interview-university/blob/main/translations/README-ko.md#%EC%9D%B4%EA%B1%B4-%EB%8C%80%EC%B2%B4-%EB%AD%90%ED%95%98%EB%8A%94-%EA%B1%B4%EA%B0%80%EC%9A%94  
 Deepseekcode https://chat.deepseek.com/  
 Mistral https://chat.mistral.ai/chat  
-List of all Regression, Classification and Clustering models : https://www.kaggle.com/discussions/general/309745
+List of all Regression, Classification and Clustering models : https://www.kaggle.com/discussions/general/309745  
+머신 러닝, 딥러닝, 데이터 사이언스 공부, 개발에 도움되는 사이트 모음 : https://ahnjg.tistory.com/m/42
 
 ## Conference Paper site
 Journal of Machine Learning Research https://jmlr.org/papers/  
@@ -59,6 +61,9 @@ NLP 학회 논문 : https://m.blog.naver.com/pianadev/222965217320
 
 # ETC
 - Towards Data Science : https://towardsdatascience.com/
+- Computer Vision 논문 대가. 220이 넘음. https://kimjy99.github.io/
+- Dependency inversion principle(DIP), Python, OpenCV, ML https://dsaint31.tistory.com/
+- AI Research Topic, Development & Tools : https://eehoeskrap.tistory.com/
 - 2021년 기준 Image Classification, Segementation : https://ddiddu.medium.com/ 
 - Diffusion model, 미분방정식 등 : https://seongqjini.com/category/deeplearning/
 - LLM , Neural Prophet, Meta Learning 등 : https://bigwaveai.tistory.com/
@@ -77,7 +82,6 @@ NLP 학회 논문 : https://m.blog.naver.com/pianadev/222965217320
 - Python, Data Structure, Backend https://velog.io/@cha-suyeon/posts
 - 2022년 기준 U-net 논문 리뷰 https://ysco.tistory.com/
 - 2023년 기준 가격 예측 공모전, 딥러닝, 머신러닝, 논문 리뷰 https://yeong-jin-data-blog.tistory.com/
-- 2020년 기준 백준문제, 알고리즘, 딥러닝, 머신러닝 이론 https://strutive07.github.io/
 - Super-Resolution, Segmentation , Flow Model 논문 리뷰 https://devkihyun.github.io/
 - https://bigdatamaster.tistory.com/
 - 알고리즘 문제풀이 https://dbstndi6316.tistory.com/
@@ -94,31 +98,23 @@ NLP 학회 논문 : https://m.blog.naver.com/pianadev/222965217320
 - 3D Vision, DL, ML https://mvje.tistory.com/
 - AE, Word2Vec, NLP 기초 https://dslyh01.tistory.com/
 - AI, ML 주식 트레이드(?) https://ambitious-posong.tistory.com/
-- https://kimjy99.github.io/categories/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0/CV/
-- https://ai-com.tistory.com/
-- https://velog.io/@lee9843/posts
-- https://neulvo.tistory.com/category/Data
-- Github에 있는 소스코드 코랩에 설치하기 : https://wikidocs.net/197088
-- ML(CV,NLP) example : https://github.com/HiMyNameIsDavidKim/ML_Example/tree/main
-- https://lilianweng.github.io/ : https://lilianweng.github.io/posts/2021-07-11-diffusion-models/
-- https://ffighting.net/
-- https://thecho7.tistory.com/
-- ratsgo's 블로그 https://ratsgo.github.io/blog/categories/
-- 송호연 - 인공지능 1학년 브런치 https://brunch.co.kr/magazine/ai-first
-- 카카오 - AI 브런치 https://brunch.co.kr/magazine/kakaoaireport
-- 솔라리스의 인공지능 연구실 블로그 http://solarisailab.com/deep-learning
-- Google AI Blog https://ai.googleblog.com/
-- Skelter Labs - PingPong Blog https://blog.pingpong.us/
-- miscellaneous - practicalcryptography - http://www.practicalcryptography.com/miscellaneous/machine-learning/
-- https://blog.naver.com/jodi999
-- https://bovit.tistory.com/
-- https://jins-sw.tistory.com/
-- https://facerain.github.io/
-- https://rfriend.tistory.com/
-- https://ahnjg.tistory.com/m/42
-- How can I import custom modules from a Github repository in Google Colab? : https://stackoverflow.com/questions/52681405/how-can-i-import-custom-modules-from-a-github-repository-in-google-colab
-- https://davidlds.tistory.com/category/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0
-- https://kevinitcoding.tistory.com/
-- https://eehoeskrap.tistory.com/
-- https://dsaint31.tistory.com/category/Programming
-
+- RL, ML optimization : https://ai-com.tistory.com/
+- 기환이 블로그 : https://velog.io/@lee9843/posts
+- 논문 같이 읽기 : https://neulvo.tistory.com/category/Data
+- ML(CV,NLP) Model code (Github) : https://github.com/HiMyNameIsDavidKim/ML_Example/tree/main
+- Generative Model(Diffusion), NLP Algorithm : https://lilianweng.github.io/ : https://lilianweng.github.io/posts/2021-07-11-diffusion-models/
+- Diffusion , Generative AI Model 논문 리뷰 : https://ffighting.net/
+- 논문 리뷰 : https://thecho7.tistory.com/
+- NLP, ML, DL, Statistics Algorithm :  https://ratsgo.github.io/blog/categories/
+- 2021년 기준 AI 이론(간단) https://brunch.co.kr/magazine/ai-first
+- 2021년 기준 카카오 - AI 브런치 https://brunch.co.kr/magazine/kakaoaireport
+- 2020년 기준 CNN, LSTM, AE 등 자세한 이론설명 http://solarisailab.com/deep-learning
+- ML Research , ML Engineering https://blog.pingpong.us/
+- 암호화, 머신러닝 이론 http://www.practicalcryptography.com/miscellaneous/machine-learning/
+- Python 심화코드, 요령 : https://blog.naver.com/jodi999
+- Camera, sensor, Imaging Model : https://bovit.tistory.com/
+- NLP, LLM : https://jins-sw.tistory.com/
+- Python Engineering, Research 논문 리뷰 : https://facerain.github.io/
+- CV, NLP https://ahnjg.tistory.com/
+- 논문 리뷰 : https://davidlds.tistory.com/category/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0
+- Google Colab의 Github 저장소에서 사용자 정의 모듈을 가져오려면 어떻게 해야 하나요? : https://stackoverflow.com/questions/52681405/how-can-i-import-custom-modules-from-a-github-repository-in-google-colab
