@@ -52,6 +52,8 @@ https://github.com/hazdzz/awesome-gnn
 
 ### Dropout-like or Sampling
 
+## Problems : Over-squashing
+
 # Graph Transformers
 
 # Graph Structure Embedding
