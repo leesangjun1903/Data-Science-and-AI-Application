@@ -46,6 +46,35 @@ https://github.com/hazdzz/awesome-gnn
 
 ## Problems : Over-smoothing
 
-##
+### Analyses
 
-## Graph Deviation Network
+### Graph Normalization
+
+### Dropout-like or Sampling
+
+# Graph Transformers
+
+# Graph Structure Embedding
+
+# Graph State Space Models (GSSMs)
+
+# Graph MLP
+
+# Tensor Graph Neural Networks
+
+# Graph Autoencoders (GAE)
+
+# Graph Generative Adversarial Networks (GGAN)
+
+# graph pre-training
+
+# GNN explainers
+
+# Graph Adversarial Attacks and Defenses
+
+# Weisfeiler-Lehman (WL) Test
+
+
+
+# Graph Deviation Network
+
