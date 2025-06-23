@@ -39,6 +39,7 @@ Computer Vision 학회 논문 : https://rollingpig.tistory.com/26
 NLP 학회 논문 : https://m.blog.naver.com/pianadev/222965217320  
 
 ## Lecture
+- https://learn.deeplearning.ai/ : 앤드류 응의 다양한 교육
 - https://fall2019.fullstackdeeplearning.com/ : 딥러닝의 기본적인 것들을 이미 알고있는 사람들이 실제로 DL Production을 만드는 과정을 이해하기 위한 강의다.  
 - Google 머신러닝 교육 : https://developers.google.com/machine-learning?hl=ko, https://developers.google.com/machine-learning/crash-course?hl=ko  
 - Computer Science courses with video lectures https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file#machine-learning
