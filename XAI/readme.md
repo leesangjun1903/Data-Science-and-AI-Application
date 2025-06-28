@@ -1,5 +1,8 @@
 # Awesome series
-https://github.com/wangyongjie-ntu/Awesome-explainable-AI
+- Awesome-explainable-AI : https://github.com/wangyongjie-ntu/Awesome-explainable-AI
+- Papers and code of Explainable AI esp. w.r.t. Image classificiation : https://github.com/samzabdiel/XAI?tab=readme-ov-file
+- Awesome XAI : https://github.com/altamiracorp/awesome-xai
+- Interpretability Techniques for Deep Learning : https://paperswithcode.com/task/interpretability-techniques-for-deep-learning
 
 ## Interpretable Machine Learning, Christoph Molnar
 https://christophm.github.io/interpretable-ml-book/
