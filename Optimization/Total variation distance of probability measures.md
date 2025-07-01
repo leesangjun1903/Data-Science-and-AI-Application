@@ -31,6 +31,134 @@ $$
 https://en.wikipedia.org/wiki/Total_variation_distance_of_probability_measures
 
 # Variational Bayesian methods
+
+**핵심 개념 요약**  
+변분 베이지안 방법은 복잡한 후방분포 $$p(\mathbf{Z} \mid \mathbf{X})$$를 직접 계산하기 어려울 때, 단순한 근사분포 $$q(\mathbf{Z})$$를 도입하여 최적의 근사분포를 찾는 기법이다. 이때 최적화 목표는 변분 원리(ELBO: Evidence Lower Bound)를 최대화하거나 KL 발산을 최소화하는 것이다.
+
+## 1. 문제 설정
+
+데이터 $$\mathbf{X}=\{x_n\}\_{n=1}^N$$와 잠재 변수 $$\mathbf{Z}=\{z_n\}_{n=1}^N$$에 대해, 베이지안 모형의 사전분포와 우도는:
+
+$$
+p(\mathbf{X}, \mathbf{Z}) = p(\mathbf{X}\mid \mathbf{Z})\,p(\mathbf{Z}).
+$$
+
+후방분포는
+
+$$
+p(\mathbf{Z}\mid \mathbf{X}) = \frac{p(\mathbf{X},\mathbf{Z})}{p(\mathbf{X})}
+\quad\text{단, }p(\mathbf{X})=\int p(\mathbf{X},\mathbf{Z})\,d\mathbf{Z}.
+$$
+
+직접 계산 불가능할 때, 근사분포 $$q(\mathbf{Z})$$를 도입한다.
+
+## 2. 변분 원리(ELBO) 도출
+
+우리는 로그 주변 우도 $$\ln p(\mathbf{X})$$를 다음과 같이 변형한다:
+
+$$
+\ln_p(\mathbf{X})
+= \int q(\mathbf{Z}) \ln \frac{p(\mathbf{X},\mathbf{Z})}{p(\mathbf{Z}\mid \mathbf{X})}\,d\mathbf{Z}
+= \underbrace{\int q(\mathbf{Z}) \ln \frac{p(\mathbf{X},\mathbf{Z})}{q(\mathbf{Z})}\,d\mathbf{Z}}_{\mathcal{L}(q)} 
+\;+\;\underbrace{\int q(\mathbf{Z}) \ln \frac{q(\mathbf{Z})}{p(\mathbf{Z}\mid \mathbf{X})}\,d\mathbf{Z}}\_{\mathrm{KL}[\,q\,\|\,p]\,\ge0}.
+$$
+
+여기서  
+- $$\mathcal{L}(q)$$는 **Evidence Lower Bound** (ELBO),  
+- $$\mathrm{KL}[q\|p]$$는 근사분포와 참 후방분포 간의 KL 발산이다.
+
+따라서
+
+$$
+\ln p(\mathbf{X}) = \mathcal{L}(q) + \mathrm{KL}[\,q(\mathbf{Z})\,\|\,p(\mathbf{Z}\mid \mathbf{X})],
+$$
+
+$$\mathrm{KL}\ge0$$ 이므로 $$\mathcal{L}(q) \le \ln p(\mathbf{X})$$.  
+$$\mathcal{L}(q)$$를 최대화하면 $$\mathrm{KL}$$을 최소화하여 $$q(\mathbf{Z})\approx p(\mathbf{Z}\mid \mathbf{X})$$를 얻는다.
+
+## 3. ELBO 전개
+
+$$
+\mathcal{L}(q)
+= \int_q(\mathbf{Z}) \ln\_p(\mathbf{X},\mathbf{Z})\,d\mathbf{Z}
+$$
+
+$$
+\int_q(\mathbf{Z}) \ln\_q(\mathbf{Z})\,d\mathbf{Z}.
+$$
+
+이 식은 기대 우도(term1)와 엔트로피(term2)의 합으로 해석된다:
+- 기대 우도: $$\mathbb{E}\_{q}[\ln p(\mathbf{X},\mathbf{Z})]$$,
+- 엔트로피: $$-\mathbb{E}\_{q}[\ln q(\mathbf{Z})]$$.
+
+## 4. 인수 분해 가정 (Mean-Field Approximation)
+
+대부분의 응용에서 $$q$$를 계산 가능하도록 다음과 같이 팩터화한다:
+
+$$
+q(\mathbf{Z}) = \prod_{i=1}^M q_i(z_i).
+$$
+
+이때 각 팩터 $$q_i(z_i)$$를 순차적으로 최적화한다.  
+변분 최적화 결과는 다음 갱신식 형태를 갖는다:
+
+$$
+\ln q_i^*(z_i)
+= \mathbb{E}_{j\neq i}\bigl[\ln p(\mathbf{X},\mathbf{Z})\bigr] + \mathrm{const}.
+$$
+
+여기서 $$\mathbb{E}_{j\neq i}[\cdot]$$는 $$q_j$$들에 대한 기댓값이다.
+
+## 5. 구체적 예: 가우시안 혼합 모델
+
+가우시안 혼합 모델의 잠재 변수는 군집 할당 $$\mathbf{Z}$$와 군집별 모수 $$\{\mu_k,\Lambda_k\}_{k=1}^K$$이다.  
+
+변분 근사분포를
+
+$$
+q(\mathbf{Z}, \{\mu_k,\Lambda_k\})
+= \prod_{n=1}^N q(z_n)\;\prod_{k=1}^K q(\mu_k,\Lambda_k)
+$$
+
+로 설정하고, 각 팩터를 다음과 같이 갱신한다.
+
+1. 군집 할당 $$q(z_n)$$ 갱신:
+
+$$
+\ln q(z_n=k)
+\propto \mathbb{E}_{\mu_k,\Lambda_k}\bigl[\ln \pi_k\,\mathcal{N}(x_n\mid \mu_k,\Lambda_k^{-1})\bigr].
+$$
+
+2. 모수 $$q(\mu_k,\Lambda_k)$$ 갱신: 공액 사전(conjugate prior) 덕분에 정상 분포-위샤트 분포로 갱신.
+
+$$
+q(\mu_k, \Lambda_k)
+= \mathcal{N}\bigl(\mu_k\mid m_k,(\beta_k\Lambda_k)^{-1}\bigr)\;
+\mathcal{W}\bigl(\Lambda_k\mid W_k,\nu_k\bigr).
+$$
+
+각 하이퍼파라미터 $$(m_k,\beta_k,W_k,\nu_k)$$는 이전 식에서 기대값을 계산하여 닫힌형 갱신식을 얻는다.
+
+## 6. 수렴 기준 및 구현
+
+- **ELBO 값 모니터링**: 각 반복마다 ELBO $$\mathcal{L}(q)$$를 계산하여 증가 여부 확인  
+- **KL 발산**: $$\mathrm{KL}[q\|p]$$이 충분히 작아지면 종료  
+- **파라미터 변화**: $$\|\theta^{(t+1)}-\theta^{(t)}\|$$이 작은 경우 종료  
+
+## 7. 요약 및 장단점
+
+**장점**  
+- 계산 효율적: MCMC보다 속도 우수  
+- 확률적 해석: 근사 후방분포 활용 가능
+
+**단점**  
+- 근사 품질: Mean-field 가정으로 과도한 팩터화 시 부정확  
+- 수렴: 전역 최적이 보장되지 않음
+
+---  
+
+위와 같은 수식 전개를 통해 **Variational Bayesian methods**의 원리와 구체적 갱신식을 체계적으로 이해할 수 있다.
+
 https://en.wikipedia.org/wiki/Variational_Bayesian_methods
 
 https://mpatacchiola.github.io/blog/2021/01/25/intro-variational-inference.html  
