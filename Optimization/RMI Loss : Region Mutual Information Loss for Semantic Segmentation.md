@@ -10,6 +10,9 @@
 
 따라서 RMI는 학습 과정에서 적은 추가적인 연산량을 요구한다 그리고 테스트 과정에서 오버헤드가 없다.
 
+# Region Mutual Information Loss for Semantic Segmentation
+https://arxiv.org/abs/1910.12037
+
 # Reference
 - https://nolja98.tistory.com/313
 - https://github.com/ZJULearning/RMI/blob/10a40cdbeb58bdd1bd7125fde73b48b12f9452c7/losses/rmi/rmi.py
