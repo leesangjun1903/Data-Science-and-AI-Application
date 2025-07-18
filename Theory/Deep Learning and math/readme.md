@@ -9,5 +9,11 @@
 - Linear Regression
 - Multi-class Classification
 - Universal Approximation Theorem
-- Activation functions
+### Activation functions
+- Gradient Descent Optimizers
+- Dropout
+- Regularization
+- Normalization and Standardization
+- Batch Normalization (BN)
+- Weight Initialization
 - 
