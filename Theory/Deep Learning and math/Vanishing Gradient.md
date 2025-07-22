@@ -1,4 +1,4 @@
-# Gradient Flow in Recurrent Nets: 수학적 공식의 전체 구조
+# Gradient Flow in Recurrent Nets: the Difficulty of Learning Long-Term Dependencies
 
 아래는 Hochreiter et al.(1991)이 제시한 “Gradient Flow in Recurrent Nets: the Difficulty of Learning Long-Term Dependencies” 논문에서 사용된 핵심 수식들을 원문 수준으로 정리한 것입니다.
 
