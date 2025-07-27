@@ -1,4 +1,4 @@
-# A Unified Perspective on Multi-Domain and Multi-Task Learning | Domain Adaption
+# A Unified Perspective on Multi-Domain and Multi-Task Learning | Domain Adaption, semantic descriptor
 
 ## **핵심 주장과 주요 기여**
 
