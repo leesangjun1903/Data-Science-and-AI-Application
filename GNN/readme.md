@@ -1,7 +1,11 @@
 # Awesome Graph Neural Networks
 https://github.com/TrustAGI-Lab/Awesome-Graph-Neural-Networks?tab=readme-ov-file
 
+## Papers
 - Survey
+- Few-Shot Learning with Graph Neural Networks
+
+
 - Recuurent Graph Neural Networks
 - Convolutional Graph Neural Networks
 - Graph Autoencoders
