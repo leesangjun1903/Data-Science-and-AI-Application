@@ -4,6 +4,7 @@ https://github.com/TrustAGI-Lab/Awesome-Graph-Neural-Networks?tab=readme-ov-file
 ## Papers
 - Survey
 - Few-Shot Learning with Graph Neural Networks
+- node2vec: Scalable Feature Learning for Networks
 
 - 수정필:
 - Recuurent Graph Neural Networks
