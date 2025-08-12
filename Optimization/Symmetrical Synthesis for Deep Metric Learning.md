@@ -14,7 +14,7 @@
 
 ### 2.2 제안 방법
 1) **대칭합성 (Symmetrical Synthesis)**  
-   - 같은 클래스의 두 피처 $$x_k, x_\ell\in\mathbb{R}^d$$를 택해, 서로를 대칭축(axis of symmetry)으로 삼아 새 점 $$x'_k, x'_\ell$$ 생성.  
+   - 같은 클래스의 두 피처 $$x_k, x_\ell\in\mathbb{R}^d$$를 택해, 서로를 대칭축(axis of symmetry)으로 삼아 새 점 $$x'\_k, x'_\ell$$ 생성.  
    - 공식:
 
 $$
