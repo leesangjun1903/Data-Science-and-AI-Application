@@ -43,6 +43,7 @@
 - Winning solutions of kaggle competitions : https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook
 
 # Studies
+- kaggle courses : https://github.com/levintech/kaggle-courses/tree/master
 - Mask Verification https://github.com/ddiddu/cs470team1/tree/master   
 - Easy Few-Shot Learning https://github.com/sicara/easy-few-shot-learning/tree/master
 - OpenCV를 활용한 컴퓨터 비전 스터디 https://github.com/engineerjkk/Image_Processing/tree/main
