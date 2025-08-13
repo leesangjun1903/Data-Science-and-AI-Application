@@ -3,7 +3,8 @@
 # Control Theory
 
 
-## 1. 논문의 핵심 주장 및 주요 기여이 논문은 다변수(multivariable) 피드백 제어 시스템의 **모델 불확실성(model uncertainty)** 에 대한 **강건성(robustness)** 을 개념적으로 정량화하고,  
+## 1. 논문의 핵심 주장 및 주요 기여
+이 논문은 다변수(multivariable) 피드백 제어 시스템의 **모델 불확실성(model uncertainty)** 에 대한 **강건성(robustness)** 을 개념적으로 정량화하고,  
 – 선형-2차(quadratic) 최적 제어(LQ) 및 선형-2차 Gaussian 최적 제어(LQG) 디자인이 보장하는 안정성 여유(stability margins)를  
   유도한다.  
 – 이때 다변수 시스템 일반화(여러 루프 동시 변화) 상황에 맞게 고전적 gain·phase margin을 최소 특이치(minimum singular value)로 확장한다.  
@@ -82,7 +83,7 @@ $$
 
 [1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22370781/76690e85-3fe3-4ee8-a53b-63fa4fdf023c/Robustness_results_in_linear-quadratic_Gaussian_based_multivariable_control_designs.pdf
 
-# “Robustness Results in Linear–Quadratic Gaussian Based Multivariable Control Designs” 쉽게 풀어쓰기
+## “Robustness Results in Linear–Quadratic Gaussian Based Multivariable Control Designs” 쉽게 풀어쓰기
 
 이 글은 ‘여러 입력·출력 시스템(MIMO)을 제어 때, 모델 오차에도 안정성과 성능을 보장해 주는 기법’을 다룹니다. 고등학생도 이해하기 쉽도록 핵심 개념과 흐름을 단계별로 설명합니다.
 
