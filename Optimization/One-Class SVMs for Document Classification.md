@@ -1,4 +1,4 @@
-# One-Class SVMs for Document Classification
+# One-Class SVMs for Document Classification | PU-Learning(Positive-Unlabeled Learning)
 
 ## 핵심 주장과 주요 기여
 
