@@ -99,6 +99,7 @@
 # ETC
 - Towards Data Science : https://towardsdatascience.com/
 - Computer Vision 논문 대가. 220이 넘음. https://kimjy99.github.io/
+- 어쩐지 오늘은, Machine Learning Engineer : https://zzsza.github.io/
 - Dependency inversion principle(DIP), Python, OpenCV, ML https://dsaint31.tistory.com/
 - AI Research Topic, Development & Tools : https://eehoeskrap.tistory.com/
 - 2021년 기준 Image Classification, Segementation : https://ddiddu.medium.com/ 
