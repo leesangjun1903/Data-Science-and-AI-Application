@@ -13,6 +13,9 @@
 - 머신러닝 레딧 https://www.reddit.com/r/MachineLearning/
 - 
 
+# Dataset
+- AI-HUB : https://www.aihub.or.kr/
+
 # Chatbot
 - Chatgpt
 - Perplexity
