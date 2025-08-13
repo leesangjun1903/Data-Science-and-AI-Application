@@ -12,9 +12,9 @@
 ## 문제 정의
 
 N ≫ M인 fully-supervised 시나리오를 가정한다.  
-- **Source** 도메인 D_s: 대규모 라벨 데이터, 분포 P_s(x,y).  
-- **Target** 도메인 D_t: 소규모 라벨 데이터, 분포 P_t(x,y).  
-목표는 P_t에서 낮은 위험 R_t(h)를 갖는 분류기 h : X → Y를 학습하는 것[1]. 기존 방법들은 (i) source만 사용(SRCONLY) (ii) target만 사용(TGTONLY) (iii) 데이터 합치기(ALL) (iv) 가중치 재조정(WEIGHTED) (v) 선·후처리 조합(PRED, LININT) (vi) Prior-based regularization 등을 제안했으나, 도메인 간 분포 불일치가 크거나 M이 작으면 만족스럽지 못했다[1][2].
+- **Source** 도메인 D_s: 대규모 라벨 데이터, 분포 $P_s(x,y)$.  
+- **Target** 도메인 D_t: 소규모 라벨 데이터, 분포 $P_t(x,y)$.  
+목표는 $P_t$에서 낮은 위험 $R_t(h)$를 갖는 분류기 $h : X → Y$를 학습하는 것[1]. 기존 방법들은 (i) source만 사용(SRCONLY) (ii) target만 사용(TGTONLY) (iii) 데이터 합치기(ALL) (iv) 가중치 재조정(WEIGHTED) (v) 선·후처리 조합(PRED, LININT) (vi) Prior-based regularization 등을 제안했으나, 도메인 간 분포 불일치가 크거나 M이 작으면 만족스럽지 못했다[1][2].
 
 ## 제안 방법: 특징 공간 확대(EasyAdapt)
 
@@ -22,8 +22,8 @@ N ≫ M인 fully-supervised 시나리오를 가정한다.
 모든 원본 특징 x ∈ ℝ^F에 대해 **공통, source-전용, target-전용** 세 복제본을 생성해 3F차원으로 확장한다[1].
 
 $$
-\Phi_s(x)=\langle x,\;x,\;0\rangle,\qquad 
-\Phi_t(x)=\langle x,\;0,\;x\rangle[1]
+\Phi_s(x)=\langle x,x,0\rangle,\qquad 
+\Phi_t(x)=\langle x,0,x\rangle[1]
 $$
 
 - 첫 F차원: 도메인 무관(common).  
@@ -33,7 +33,7 @@ $$
 학습기는 확장된 벡터 $$\tilde{x}$$를 사용해 단일 모델을 학습한다. 최적화는 기존 선형 SVM, MaxEnt, Perceptron 등과 동일하다.
 
 ### 커널화 해석  
-기존 커널 K(x,x′)=⟨ϕ(x),ϕ(x′)⟩를 사용하면 확장 커널은
+기존 커널 $K(x,x′)=⟨ϕ(x),ϕ(x′)⟩$를 사용하면 확장 커널은
 
 $$
 \tilde{K}(x,x′)=
