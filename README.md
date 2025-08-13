@@ -35,7 +35,7 @@
 - Paper with code(~2018) https://github.com/zziz/pwc
 - Awesome Deep learning papers and other resources : https://github.com/endymecy/awesome-deeplearning-resources
 - Awesome Deep Learning : https://github.com/ChristosChristofidis/awesome-deep-learning?tab=readme-ov-file#tutorials
-- Top Genetic Algorithm Github repositories : 
+- Top Genetic Algorithm Github repositories : https://github.com/rafa2000/Top-Genetic-Algorithm
 - Winning solutions of kaggle competitions : https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook
 
 # Studies
