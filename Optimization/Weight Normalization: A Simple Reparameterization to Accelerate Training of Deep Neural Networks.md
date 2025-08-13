@@ -207,3 +207,5 @@ Weight Normalization은 신경망 최적화 분야에서 **간단하면서도 �
 [30] https://journals.jps.jp/doi/10.7566/JPSJ.86.044002?mobileUi=0
 [31] https://www.activeloop.ai/resources/glossary/weight-normalization/
 [32] https://www.numberanalytics.com/blog/mathematics-behind-weight-normalization
+
+- Exploring Weight Decay in Layer Normalization: Challenges and a Reparameterization Solution : https://medium.com/@ohadrubin/exploring-weight-decay-in-layer-normalization-challenges-and-a-reparameterization-solution-ad4d12c24950
