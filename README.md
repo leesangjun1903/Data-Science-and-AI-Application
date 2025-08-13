@@ -1,5 +1,29 @@
-# DL Research
+# Research, Searching
 - Goggle Scholar : https://scholar.google.com/
+- Papers with code : https://web.archive.org/web/20250120125836/https://paperswithcode.com/
+- Best Computer Science Conferences https://research.com/conference-rankings/computer-science  
+- AI 논문 사이트 모음 https://sohyunwriter.tistory.com/59  
+- Journal of Machine Learning Research https://jmlr.org/papers/
+- Deep Learning Monitor https://deeplearn.org/  
+- The latest research from Google : https://research.google/blog/
+- codeocean : https://codeocean.com/explore?page=1&filter=all
+- huggingface : https://huggingface.co/, https://huggingface.co/papers/trending
+- 위키독스 https://wikidocs.net/  
+- 인공지능(AI) & 머신러닝(ML) 사전 : https://wikidocs.net/book/5942
+- 머신러닝 레딧 https://www.reddit.com/r/MachineLearning/
+- 
+
+# Chatbot
+- Chatgpt
+- Perplexity
+- Gemini
+- Deepseekcode : https://chat.deepseek.com/
+- Claude
+- Qwen
+- 에이닷
+- Mistral : https://chat.mistral.ai/chat  
+
+## Awesome series
 - Awesome AI & Data GitHub-Repos https://github.com/youssefHosni/Awesome-AI-Data-GitHub-Repos?tab=readme-ov-file
 - Awesome Recurrent Neural Networks https://github.com/kjw0612/awesome-rnn
 - Awesome Deep Vision https://github.com/kjw0612/awesome-deep-vision
@@ -11,32 +35,30 @@
 - Paper with code(~2018) https://github.com/zziz/pwc
 - Awesome Deep learning papers and other resources : https://github.com/endymecy/awesome-deeplearning-resources
 - Awesome Deep Learning : https://github.com/ChristosChristofidis/awesome-deep-learning?tab=readme-ov-file#tutorials
+- Top Genetic Algorithm Github repositories : 
 - Winning solutions of kaggle competitions : https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook
 
-# 유용한 Data Science site
-인공지능(AI) & 머신러닝(ML) 사전 : https://wikidocs.net/book/5942  
-The latest research from Google : https://research.google/blog/  
-codeocean : https://codeocean.com/explore?page=1&filter=all  
-huggingface : https://huggingface.co/  
-데이콘 https://dacon.io/  
-위키독스 https://wikidocs.net/  
-머신러닝 레딧 https://www.reddit.com/r/MachineLearning/  
-코드 오류 해결 : https://stackoverflow.com/  
-프로그래머 필독서 64선 https://blog.naver.com/wikiware/100042152479  
-Coding Interview University https://github.com/jwasham/coding-interview-university/blob/main/translations/README-ko.md#%EC%9D%B4%EA%B1%B4-%EB%8C%80%EC%B2%B4-%EB%AD%90%ED%95%98%EB%8A%94-%EA%B1%B4%EA%B0%80%EC%9A%94  
-Deepseekcode https://chat.deepseek.com/  
-Mistral https://chat.mistral.ai/chat  
-List of all Regression, Classification and Clustering models : https://www.kaggle.com/discussions/general/309745  
-머신 러닝, 딥러닝, 데이터 사이언스 공부, 개발에 도움되는 사이트 모음 : https://ahnjg.tistory.com/m/42
-
-## Conference Paper site
-Journal of Machine Learning Research https://jmlr.org/papers/  
-Deep Learning Monitor https://deeplearn.org/  
-AI 논문 사이트 모음 https://sohyunwriter.tistory.com/59  
-Best Computer Science Conferences https://research.com/conference-rankings/computer-science  
-Convnet calculator : https://madebyollin.github.io/convnet-calculator/  
-Computer Vision 학회 논문 : https://rollingpig.tistory.com/26  
-NLP 학회 논문 : https://m.blog.naver.com/pianadev/222965217320  
+# Studies
+- Mask Verification https://github.com/ddiddu/cs470team1/tree/master   
+- Easy Few-Shot Learning https://github.com/sicara/easy-few-shot-learning/tree/master
+- OpenCV를 활용한 컴퓨터 비전 스터디 https://github.com/engineerjkk/Image_Processing/tree/main
+- Satellite-image-deep-learning https://github.com/satellite-image-deep-learning/techniques?tab=readme-ov-file  
+- SOTA in Computer vision, two excellent resources(~2018), C-CORE Iceberg Classifier Challenge Discussion : https://www.kaggle.com/competitions/statoil-iceberg-classifier-challenge/discussion/44102
+- Deep Autoenconder (with Linear layer) - PyTorch - Image Reconstruction https://www.kaggle.com/code/drvaibhavkumar/deep-autoenconder-pytorch-image-reconstruction
+- Classifying custom satellite image datasets by creating Convolutional Neural Networks and Residual Networks from scratch with PyTorch https://github.com/Rumeysakeskin/EuroSat-Satellite-CNN-and-ResNet/tree/main
+- PyTorch를 활용한 딥러닝 튜토리얼, Deep Learning Tutorials using PyTorch (PseudoLab) : https://github.com/Pseudo-Lab/Tutorial-Book?tab=readme-ov-file
+- 논문으로 짚어보는 딥러닝의 맥 : https://www.boostcourse.org/deeplearningchoi/joinLectures/10979
+- image classification with qnn-inference-examples (Quandized Neural Network) : https://github.com/maltanar/qnn-inference-examples
+- Classifying animals using SOTA Models : https://www.kaggle.com/code/aymenkhouja/classifying-animals-using-sota-models/notebook
+- 365 Days Computer Vision Learning LinkedIn Post : https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post
+- Semantic Segmentation을 위한 U-Net 모델 : https://dacon.io/forum/405807
+- object detection 개요 [딥러닝 컴퓨터 비전 완벽가이드 필기] : https://check-this.tistory.com/6
+- LearnOpenCV https://github.com/spmallick/learnopencv/tree/master?tab=readme-ov-file
+- Deep Learning Projects(Abstractive Text Summarization Transformer Model, Anime Face Generation, Deep CNN Autoencoder - Image Compression - Denoising Image
+, Cassava Leaf Disease Detection, Colorize Images & Videos - DeOldify, Building an AI Agent for Wikipedia & Calculator using OpenAI, Custom Object Detection Tutorial using YOLOv8, Dogs vs Cats Image Classification - CNN, Face Mask Detection - Object Detection, Fake News Detection Analysis - LSTM Classification, Realtime Human Pose Estimation - OpenCV, Image & Video Segmentation with SAM 2.1, Image Segmentation Tutorial - Unet, LLM Usage and Fine Tuning Llama3, MNIST Handwritten Digits Recognition, Mastering OpenAI GPT-3 & 3.5, Speech Emotion Recognition - Sound Classification, Super Resolution - OpenCV(EDSR, LapSRN), Urban Sound Analysis - Sound Classification) : https://github.com/aswintechguy/Deep-Learning-Projects/tree/main
+- 3D Machine Learning Study notes https://github.com/timzhang642/3D-Machine-Learning
+- 3D Reconstruction & visualistaion https://www.kaggle.com/code/aatamikorpi/3d-reconstruction-visualistaion/notebook
+- 머신 러닝, 딥러닝, 데이터 사이언스 공부, 개발에 도움되는 사이트 모음 : https://ahnjg.tistory.com/m/42  
 
 ## Lecture
 - https://learn.deeplearning.ai/ : 앤드류 응의 다양한 교육
@@ -56,7 +78,14 @@ NLP 학회 논문 : https://m.blog.naver.com/pianadev/222965217320
 - 강승우의 인공지능 이야기 : https://www.youtube.com/playlist?list=PLZwFtgKc35I8QwuvmrmK24jXzK9qhz0-6
 - 고려대학교 산업경영공학부 DSBA 연구실 : https://www.youtube.com/@dsba2979/playlists
 
-## Project    
+## Challenge
+- 데이콘 : https://dacon.io/
+- kaggle : https://www.kaggle.com/
+- 풍력 발전량 예측 공모전 실전 문제 : https://cerulean-cord-e77.notion.site/229b136a1bb080c38f5debe7f8f9df77
+- 모션 키포인트 검출 AI 경진대회 : https://dacon.io/en/competitions/open/235701/codeshare
+- Human Protein Atlas Image Classification : https://www.kaggle.com/c/human-protein-atlas-image-classification/code?competitionId=10418&sortBy=voteCount&excludeNonAccessedDatasources=true
+- AI 양재 허브 인공지능 오픈소스 경진대회 : https://dacon.io/en/competitions/official/235977/codeshare?page=1&dtype=view&ptype=pub&keyword
+- 카메라 이미지 품질 향상 AI 경진대회 : https://dacon.io/en/competitions/official/235746/codeshare?page=1&dtype=view&ptype=pub&keyword
 - 500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲 https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code?tab=readme-ov-file
 - ARC Prize 2024 : https://www.kaggle.com/competitions/arc-prize-2024/code?competitionId=67357&sortBy=voteCount&excludeNonAccessedDatasources=true
 
