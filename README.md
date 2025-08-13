@@ -86,6 +86,7 @@
 ## Challenge
 - 데이콘 : https://dacon.io/
 - kaggle : https://www.kaggle.com/
+- 캐글 입문서 : https://goldenrabbit.co.kr/?s=%EC%BA%90%EA%B8%80
 - 풍력 발전량 예측 공모전 실전 문제 : https://cerulean-cord-e77.notion.site/229b136a1bb080c38f5debe7f8f9df77
 - 모션 키포인트 검출 AI 경진대회 : https://dacon.io/en/competitions/open/235701/codeshare
 - Human Protein Atlas Image Classification : https://www.kaggle.com/c/human-protein-atlas-image-classification/code?competitionId=10418&sortBy=voteCount&excludeNonAccessedDatasources=true
