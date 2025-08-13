@@ -14,13 +14,13 @@ DeepONet는 크게 세 부분으로 이루어집니다.
 수식으로 쓰면,
 
 $$
-N(u)(y) \;=\; \bigl(R\circ A\circ E\bigr)(u)\;(y)
+N(u)(y) = \bigl(R\circ A\circ E\bigr)(u)\;(y)
 $$
 
 여기서,
 
 $$
-E(u)\;=\;\bigl(u(x_1),\dots,u(x_m)\bigr)\in\mathbb R^m,
+E(u)=\bigl(u(x_1),\dots,u(x_m)\bigr)\in\mathbb R^m,
 \quad
 A\bigl(E(u)\bigr)\in\mathbb R^p,
 $$
@@ -70,7 +70,7 @@ $$
 
 $$
 \mathcal E_E
-\;\lesssim\;
+\lesssim
 \sqrt{\sum_{k>m/C\log m}\lambda_k(\mu)},
 $$
 
@@ -106,7 +106,7 @@ $$\mathcal E_R\lesssim p^{-s/n}$$[3.7]
 연산자 근사에 차원 저주가 없다는 건, 원하는 정확도 $$\varepsilon$$를 얻기 위해 필요한 네트워크 크기(size)가  
 
 $$
-\mathrm{size}\;\lesssim\;\mathrm{poly}(1/\varepsilon),
+\mathrm{size}\lesssim\mathrm{poly}(1/\varepsilon),
 $$
 
 즉 지수적($$\exp(1/\varepsilon)$$)이 아니고 다항적($$(1/\varepsilon)^c$$) 증가.
