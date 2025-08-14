@@ -1,5 +1,5 @@
 # Optimization
-> ## Learning Hyperparameter Tuning, Loss function(Cost function), Objective function optimization, Meta-Learning, Multi-task Learning, Domain Adaption, Metric Learning, PU-Learning(Positive-Unlabeled Learning)
+> ## Learning Hyperparameter Tuning, Loss function(Cost function), Objective function optimization, Meta-Learning, Multi-task Learning, Domain Adaption, Metric Learning, PU-Learning(Positive-Unlabeled Learning), Topos and stacks(Not verified)
 
 ## Large-Scale Convex Optimization, Ernest K. Ryu
 -- Monotone operator methods  
