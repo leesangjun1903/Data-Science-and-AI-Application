@@ -12,7 +12,7 @@
 - 위키독스 https://wikidocs.net/  
 - 인공지능(AI) & 머신러닝(ML) 사전 : https://wikidocs.net/book/5942
 - 머신러닝 레딧 https://www.reddit.com/r/MachineLearning/
-- 
+- Towards Data Science : https://towardsdatascience.com/
 
 # Dataset
 - AI-HUB : https://www.aihub.or.kr/
@@ -75,8 +75,7 @@
 - ARC Prize 2024 : https://www.kaggle.com/competitions/arc-prize-2024/code?competitionId=67357&sortBy=voteCount&excludeNonAccessedDatasources=true
 
 # ETC
-- Towards Data Science : https://towardsdatascience.com/
-- Computer Vision 논문 대가. 220이 넘음. https://kimjy99.github.io/
+- Computer Vision, NLP 논문 리뷰 대가. 220이 넘음. https://kimjy99.github.io/
 - 어쩐지 오늘은, Machine Learning Engineer : https://zzsza.github.io/
 - Dependency inversion principle(DIP), Python, OpenCV, ML https://dsaint31.tistory.com/
 - AI Research Topic, Development & Tools : https://eehoeskrap.tistory.com/
