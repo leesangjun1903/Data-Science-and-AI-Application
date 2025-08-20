@@ -42,25 +42,6 @@
 - Top Genetic Algorithm Github repositories : https://github.com/rafa2000/Top-Genetic-Algorithm
 - Winning solutions of kaggle competitions : https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook
 
-## Lecture
-- https://learn.deeplearning.ai/ : 앤드류 응의 다양한 교육
-- https://fall2019.fullstackdeeplearning.com/ : 딥러닝의 기본적인 것들을 이미 알고있는 사람들이 실제로 DL Production을 만드는 과정을 이해하기 위한 강의다.  
-- Google 머신러닝 교육 : https://developers.google.com/machine-learning?hl=ko, https://developers.google.com/machine-learning/crash-course?hl=ko  
-- Computer Science courses with video lectures https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file#machine-learning
-- Regularization Methods for Machine Learning Lab https://lcsl.unige.it/courses/regml/regml2020/  
-- Statistical Learning Theory and Applications https://www.mit.edu/~9.520/fall19/#briefsyllabus
-- Mathematical Statistics https://ocw.mit.edu/courses/18-655-mathematical-statistics-spring-2016/pages/lecture-notes/
-- Statistical Learning Theory And Applications https://ocw.mit.edu/courses/9-520-statistical-learning-theory-and-applications-spring-2003/pages/lecture-notes/
-- Machine Learning and Nueral Network Exersices https://github.com/juifa-tsai/workbook_MachineLearning/tree/master
-- ML for Engineers https://ml-course.github.io/master/intro.html#
-- CS4780/CS5780: Machine Learning for Intelligent Systems https://www.cs.cornell.edu/courses/cs4780/2018fa/
-- Stanford Machine Learning https://www.holehouse.org/mlclass/
-- 모두를 위한 머신러닝/딥러닝 강의 https://hunkim.github.io/ml/
-- Neural Networks and Deep Learning by Michael A. Nielsen https://sihyeon-kim.github.io/neural-networks-and-deep-learning-korean/index.html
-- 강승우의 인공지능 이야기 : https://www.youtube.com/playlist?list=PLZwFtgKc35I8QwuvmrmK24jXzK9qhz0-6
-- 고려대학교 산업경영공학부 DSBA 연구실 : https://www.youtube.com/@dsba2979/playlists
-- kaggle courses : https://github.com/levintech/kaggle-courses/tree/master
-
 ## Challenge
 - 데이콘 : https://dacon.io/
 - kaggle : https://www.kaggle.com/
