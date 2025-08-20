@@ -71,7 +71,6 @@
 - Human Protein Atlas Image Classification : https://www.kaggle.com/c/human-protein-atlas-image-classification/code?competitionId=10418&sortBy=voteCount&excludeNonAccessedDatasources=true
 - AI 양재 허브 인공지능 오픈소스 경진대회 : https://dacon.io/en/competitions/official/235977/codeshare?page=1&dtype=view&ptype=pub&keyword
 - 카메라 이미지 품질 향상 AI 경진대회 : https://dacon.io/en/competitions/official/235746/codeshare?page=1&dtype=view&ptype=pub&keyword
-- 500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲 https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code?tab=readme-ov-file
 - ARC Prize 2024 : https://www.kaggle.com/competitions/arc-prize-2024/code?competitionId=67357&sortBy=voteCount&excludeNonAccessedDatasources=true
 
 # ETC
