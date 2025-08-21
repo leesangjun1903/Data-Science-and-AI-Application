@@ -20,6 +20,7 @@
 - kaggle courses : https://github.com/levintech/kaggle-courses/tree/master
 
 ## ML and Deep Learning
+- Project Based Learning : https://github.com/practical-tutorials/project-based-learning
 - Pytorch Tutorials : https://github.com/pytorch/tutorials/tree/main
 - Deep Learning Bible : https://wikidocs.net/profile/info/book/14245
 - Machine Learning Study 혼자 해보기 https://github.com/teddylee777/machine-learning/tree/master?tab=readme-ov-file
