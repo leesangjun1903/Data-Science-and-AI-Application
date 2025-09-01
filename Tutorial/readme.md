@@ -47,4 +47,6 @@
 - Carprice prediction : https://medium.com/@madanflies/linear-regression-on-carprice-dataset-or-encoding-a-categorical-dataset-in-linear-regression-7378f207e5c1
 > Linear Regression on CarPrice dataset.ipynb
 
-- 
+> Classification with MNIST.ipynb
+
+> 
