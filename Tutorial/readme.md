@@ -1,5 +1,10 @@
 # Tutorial(Studies)
 
+## Studies
+### Carprice prediction : 
+https://medium.com/@madanflies/linear-regression-on-carprice-dataset-or-encoding-a-categorical-dataset-in-linear-regression-7378f207e5c1
+> Linear Regression on CarPrice dataset.ipynb
+
 ## Lecture with Theory(video, pdf)
 - https://learn.deeplearning.ai/ : 앤드류 응의 다양한 교육
 - Computer Science courses with video lectures https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file#machine-learning
@@ -42,11 +47,3 @@
 - (DMQA) Python-codes-for-machine-learning-algorithms : https://github.com/DMQA/Python-codes-for-machine-learning-algorithms
 - Top DeepLearning tutorials and curated projects : https://github.com/ajay-sreeram/Deep-Learning-is-Awesome?tab=readme-ov-file
 
-
-## Studies
-- Carprice prediction : https://medium.com/@madanflies/linear-regression-on-carprice-dataset-or-encoding-a-categorical-dataset-in-linear-regression-7378f207e5c1
-> Linear Regression on CarPrice dataset.ipynb
-
-> Classification with MNIST.ipynb
-
-> 
