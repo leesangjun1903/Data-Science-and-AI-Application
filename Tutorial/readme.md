@@ -41,3 +41,10 @@
 - Deep Understanding Of Deep Learning : https://github.com/mikexcohen/DeepUnderstandingOfDeepLearning/tree/main
 - (DMQA) Python-codes-for-machine-learning-algorithms : https://github.com/DMQA/Python-codes-for-machine-learning-algorithms
 - Top DeepLearning tutorials and curated projects : https://github.com/ajay-sreeram/Deep-Learning-is-Awesome?tab=readme-ov-file
+
+
+## Studies
+- Carprice prediction : https://medium.com/@madanflies/linear-regression-on-carprice-dataset-or-encoding-a-categorical-dataset-in-linear-regression-7378f207e5c1
+> Linear Regression on CarPrice dataset.ipynb
+
+- 
