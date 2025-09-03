@@ -114,3 +114,4 @@
 - CV, NLP https://ahnjg.tistory.com/
 - 논문 리뷰 : https://davidlds.tistory.com/category/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0
 - Google Colab의 Github 저장소에서 사용자 정의 모듈을 가져오려면 어떻게 해야 하나요? : https://stackoverflow.com/questions/52681405/how-can-i-import-custom-modules-from-a-github-repository-in-google-colab
+- 반도체공학,딥러닝,기초수학,플라즈마,프로그래밍,RF system 그리고 수치해석에 대해서 탐구합니다. : https://metar.tistory.com/m
