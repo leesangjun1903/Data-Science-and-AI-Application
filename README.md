@@ -41,6 +41,7 @@
 - Awesome Deep Learning : https://github.com/ChristosChristofidis/awesome-deep-learning?tab=readme-ov-file#tutorials
 - Top Genetic Algorithm Github repositories : https://github.com/rafa2000/Top-Genetic-Algorithm
 - Winning solutions of kaggle competitions : https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook
+- Awesome Quantum Machine Learning : https://github.com/krishnakumarsekar/awesome-quantum-machine-learning
 
 ## Challenge
 - 데이콘 : https://dacon.io/
