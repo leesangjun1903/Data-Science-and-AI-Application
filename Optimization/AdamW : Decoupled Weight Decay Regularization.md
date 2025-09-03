@@ -97,3 +97,5 @@ $$
   4. **효율성 개선**: 대규모 분산 환경에서의 학습 안정성 및 통신 비용 최적화 연구
 
 [1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22370781/73f8d242-4091-443d-8437-55afea2f5544/1711.05101v3.pdf
+
+https://hiddenbeginner.github.io/deeplearning/paperreview/2019/12/29/paper_review_AdamW.html
