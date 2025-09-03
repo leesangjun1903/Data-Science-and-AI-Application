@@ -2,6 +2,7 @@
 > ## Learning Hyperparameter Tuning, Loss function(Cost function), Objective function optimization, Meta-Learning, Multi-task Learning, Domain Adaption, Metric Learning, PU-Learning(Positive-Unlabeled Learning), Topos and stacks(Not verified)
 
 - Advancing medical Imaging Informatics by Deep Learning-Based Domain Adaptation : https://ballentain.tistory.com/m/69
+- MMD : https://bommbom.tistory.com/entry/Maximum-Mean-DiscrepancyMMD-%EC%B5%9C%EB%8C%80-%ED%8F%89%EA%B7%A0-%EB%B6%88%EC%9D%BC%EC%B9%98-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC
 
 ## Large-Scale Convex Optimization, Ernest K. Ryu
 -- Monotone operator methods  
