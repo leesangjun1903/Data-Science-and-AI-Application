@@ -1,6 +1,8 @@
 # Optimization
 > ## Learning Hyperparameter Tuning, Loss function(Cost function), Objective function optimization, Meta-Learning, Multi-task Learning, Domain Adaption, Metric Learning, PU-Learning(Positive-Unlabeled Learning), Topos and stacks(Not verified)
 
+- Advancing medical Imaging Informatics by Deep Learning-Based Domain Adaptation : https://ballentain.tistory.com/m/69
+
 ## Large-Scale Convex Optimization, Ernest K. Ryu
 -- Monotone operator methods  
 Monotone operators and base splitting schemes  
