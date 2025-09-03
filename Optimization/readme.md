@@ -5,6 +5,59 @@
 - MMD : https://bommbom.tistory.com/entry/Maximum-Mean-DiscrepancyMMD-%EC%B5%9C%EB%8C%80-%ED%8F%89%EA%B7%A0-%EB%B6%88%EC%9D%BC%EC%B9%98-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC
 - VAE 계열 모델의 ELBO(Evidence Lower Bound) 분석 : https://glanceyes.com/entry/VAE-%EA%B3%84%EC%97%B4-%EB%AA%A8%EB%8D%B8%EC%9D%98-ELBOEvidence-Lower-Bound-%EB%B6%84%EC%84%9D
 
+## 모두를 위한 컨벡스 최적화
+https://convex-optimization-for-all.github.io/
+
+1	Introduction	 
+
+2	Convex Sets	 
+
+3	Convex Functions	 
+
+4	Convex Optimization Basis	 
+
+5	Canonical Problems	 
+
+6	Gradient Descent	 
+
+7	Subgradient	Page	 
+
+8	Subgradient Method	 
+
+9	Proximal Gradient Descent and Acceleration	 
+
+10	Duality in Linear Programs	 
+
+11	Duality in General Programs	 
+
+12	KKT Conditions	Page	 
+
+13	Duality uses and correspondences	Page	 
+
+14	Newton’s Method	Page	 
+
+15	Barrier Method	Page	 
+
+16	Duality Revisited	Page	 
+
+17	Primal-Dual Interior-Point Methods	 
+
+18	Quasi-Newton Methods	 
+
+19	Proximal Netwon Method	 
+
+20	Dual Methods	 
+
+21	Alternating Direction Method of Mulipliers	 
+
+22	Conditional Gradient Method	 
+
+23	Coordinate Descent	 
+
+24	Mixed Integer Programming 1	 
+
+25	Mixed Integer Programming 2	 
+
 ## Large-Scale Convex Optimization, Ernest K. Ryu
 -- Monotone operator methods  
 Monotone operators and base splitting schemes  
