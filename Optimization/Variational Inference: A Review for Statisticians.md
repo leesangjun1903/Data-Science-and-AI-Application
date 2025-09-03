@@ -109,3 +109,4 @@ $$
 
 
 - Variational Inference 알아보기 - MLE, MAP부터 ELBO까지 : https://modulabs.co.kr/blog/variational-inference-intro
+- Variational Inference: ELBO, Mean-Field Approximation, CAVI and Gaussian Mixture Models : https://brunomaga.github.io/Variational-Inference-GMM
