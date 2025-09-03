@@ -3,6 +3,8 @@ https://en.wikipedia.org/wiki/Batch_normalization
 https://wikidocs.net/193708  
 https://velog.io/@dongspam0209/NN-4-Bias-Variance-trade-off-%EB%B0%8F-%EC%98%A4%EB%B2%84%ED%94%BC%ED%8C%852-5suabvzq#batch-normalization
 
+https://eehoeskrap.tistory.com/430
+
 # Is Batch Normalization effective?
 ## Deep learning image enhancement insights on loss function engineering
 ### Weight normalization vs Batch normalisation
@@ -27,3 +29,4 @@ https://velog.io/@danielseo/Computer-Vision-DnCNN
 https://arxiv.org/pdf/1704.03971  
 
 ## Image denoising using deep CNN with batch renormalization
+
