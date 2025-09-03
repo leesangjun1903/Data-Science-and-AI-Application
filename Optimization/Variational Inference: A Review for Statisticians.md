@@ -106,3 +106,6 @@ $$
 각 방법에 대한 수식 유도 및 응용 예시는 본 논문에서 자세히 다루며, VI의 이론적·실용적 이해를 확장하는 데 중요한 토대를 제시한다.[1]
 
 [1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/22370781/1effb1d1-c1ca-4378-91c6-f794587a3418/1601.00670v1.pdf
+
+
+- Variational Inference 알아보기 - MLE, MAP부터 ELBO까지 : https://modulabs.co.kr/blog/variational-inference-intro
