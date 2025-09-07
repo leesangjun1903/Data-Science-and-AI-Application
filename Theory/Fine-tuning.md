@@ -102,8 +102,3 @@ Fine-tuning은 **사전 학습된(Pre-trained)** 모델을 기반으로
 효율적인 모델 개발에 도움이 되길 바랍니다!
 
 [1](https://encord.com/blog/training-vs-fine-tuning/)
-
-https://encord.com/blog/training-vs-fine-tuning/
-
-# The Guide to Fine-tuning Stable Diffusion with Your Own Images
-https://www.edge-ai-vision.com/2023/10/the-guide-to-fine-tuning-stable-diffusion-with-your-own-images/
