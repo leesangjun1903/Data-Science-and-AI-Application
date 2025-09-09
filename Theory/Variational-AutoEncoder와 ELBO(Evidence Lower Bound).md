@@ -19,7 +19,7 @@ $$
   $$  
 
 $$
-  \mathcal{L}(\theta,\phi;x)=\mathbb{E}_{q_{\phi}(z|x)}\left[\log p_{\theta}(x|z)\right]-D_{\mathrm{KL}}\left(q_{\phi}(z|x)\,\|\,p(z)\right)
+  \mathcal{L}(\theta,\phi;x)=\mathbb{E}_{q_{\phi}(z|x)}\left[\log p_{\theta}(x|z)\right]-D_{\mathrm{KL}}\left(q_{\phi}(z|x)\|p(z)\right)
   $$  
   
   여기서 $$\mathcal{L} $$가 **ELBO**이며, 이를 최대화하면 $$\log p_{\theta}(x) $$의 하한을 올리고, 동시에 사후 근사와 실제 사후의 KL을 줄입니다.[4][1]
@@ -176,7 +176,7 @@ def reconstruct(model, x):
 
 ## 안정적 학습 체크리스트
 - 포스터리어 붕괴 방지: 강한 디코더(CNN/Transformer)에서는 KL annealing(0→1), free-bits(차원별 최소 KL) 기법을 고려합니다.[1][2]
-- 로짓-스케일 정합: 베르누이면 입력을 로 정규화하고 BCE-with-logits를 사용합니다. 가우시안이면 분산 파라미터화나 스케일 고정이 필요합니다.[11][2][1]
+- 로짓-스케일 정합: 베르누이면 입력을 로짓-스케일로 정규화하고 ($[\text{logit}(p) = \log \left( \frac{p}{1-p} \right)]$) BCE-with-logits를 사용합니다. 가우시안이면 분산 파라미터화나 스케일 고정이 필요합니다.[11][2][1]
 - z 차원과 β: z를 너무 크게 두면 KL이 과도하게 커져 사전과의 정렬이 어려워질 수 있습니다. β 조절로 표현력과 정규화를 균형화합니다.[10][1]
 
 ### Posterior collapse
@@ -369,6 +369,66 @@ Gumbel distribution는 주로 여러 샘플 중 최댓값 또는 최솟값의 �
 - ELBO는 사전의 음의 엔트로피, 관측 우도의 기대 음의 엔트로피, 변분 분포의 평균 엔트로피 합으로 해석되는 수렴 형태를 가집니다. 이는 모델링 가정의 결과적 한계를 이해하는 데 유용합니다.[9]
 - 잠재/우도 분포의 대안(예: heavy-tailed, Student-t)은 경계 사례 데이터에 유리할 수 있으며 최근 변형이 제안됩니다.[12]
 - 변분/재매개변수화의 기본 레퍼런스와 최신 튜토리얼은 개념적 맥락과 실전 팁을 균형 있게 제공합니다.[13][2][3][1]
+
+### ELBO 수렴 형태 :
+ELBO (Evidence Lower Bound)는 다음과 같이 수식으로 표현되며, 사전(prior)의 음의 엔트로피, 관측 우도의 기대 음의 엔트로피, 변분 분포(variational distribution)의 평균 엔트로피로 해석할 수 있습니다.
+
+```math
+[\text{ELBO} = \mathbb{E}_{q(z|x)}[\log p(x|z)] - D{\mathrm{KL}}(q(z|x) | p(z))
+]
+```
+
+여기서,
+
+$(\mathbb{E}_{q(z|x)}[\log p(x|z)])$ 는 관측 우도(log-likelihood)의 기대값으로, 복원 오류(reconstruction error)의 음의 엔트로피에 해당합니다.
+
+$(D_{\mathrm{KL}}(q(z|x) | p(z)))$ 는 변분 분포 $(q(z|x))$ 와 사전 분포 $(p(z))$ 사이의 **쿨백-라이블러 발산(KL divergence)**이며, KL 발산은 다음과 같이 엔트로피 차이로 분해됩니다:
+
+```math
+[D_{\mathrm{KL}}(q(z|x) | p(z)) = -H(q(z|x)) - \mathbb{E}_{q(z|x)}[\log p(z)]
+]
+```
+
+따라서 ELBO는 다음과 같이 쓰여 엔트로피 관점에서 해석할 수 있습니다.
+
+```math
+[\text{ELBO} = \underbrace{\mathbb{E}_{q(z|x)}[\log p(x|z)]}_{\text{관측 우도의 기대 음의 엔트로피}} + \underbrace{H(q(z|x))}_{\text{변분 분포의 평균 엔트로피}} + \underbrace{\mathbb{E}_{q(z|x)}[\log p(z)]}_{\text{사전의 음의 엔트로피}}
+]
+```
+
+즉, ELBO는 사전 확률 $(p(z))$의 로그 확률(음의 엔트로피), 관측 데이터에 대한 모델 우도 $(\log p(x|z))$의 기대값, 그리고 변분 분포 $(q(z|x))$의 엔트로피 합으로 해석되며, 이 값을 최대화하는 것이 변분 추론의 목표입니다.
+
+### Heavy-tailed Distribution
+Heavy-tailed 분포는 꼬리가 지수함수보다 느리게 감쇠되어 극단적인 값들이 자주 발생하는 분포를 의미합니다. 수식적으로는 분포 함수 (F(x))의 우측 꼬리가 임의의 $(\mu > 0)$에 대해 다음과 같이 지수감쇠 보다 느리게 감소할 때로 정의됩니다:
+
+```math
+[\limsup_{x \to \infty} \frac{1 - F(x)}{e^{-\mu x}} = \infty
+]
+```
+
+즉, 확률 $(\Pr(X > x))$가 지수감쇠보다 천천히 감소하는 경우입니다.
+
+특히, 멱법칙(power-law) 형태의 heavy-tailed 분포는 확률밀도함수(pdf)가 다음과 같이 표현됩니다:
+
+```math
+[f_X(x) = C x^{\alpha}, \quad x \in [x_0, x_1]
+]
+```
+
+여기서 (C)는 적분이 1이 되도록 하는 정규화 상수이고, $(\alpha < -1)$인 경우 꼬리가 두꺼워집니다. 이런 분포는 꼬리가 매우 길고, 극단적인 사건이 나타날 확률이 높습니다.
+
+대표적인 heavy-tailed 분포로는 파레토 분포, 코시 분포, 로그정규분포, 안정분포 등이 있습니다.
+
+### Student's t Distribution
+Student's t 분포의 확률 밀도 함수(PDF)는 자유도 $( \nu )$ 를 가지며 다음과 같이 정의됩니다:
+
+```math
+[f(t) = \frac{\Gamma\left(\frac{\nu + 1}{2}\right)}{\sqrt{\pi \nu} \Gamma\left(\frac{\nu}{2}\right)} \left(1 + \frac{t^2}{\nu}\right)^{-\frac{\nu + 1}{2}}
+]
+```
+
+여기서 $( \Gamma(\cdot) )$ 는 감마 함수이고, $( \nu )$ 는 자유도입니다. 이 함수는 표준정규분포와 비슷하지만, 자유도가 작을 때 꼬리가 더 두꺼운 분포를 나타냅니다.
+
 
 ## 참고 문헌
 - Doersch, Tutorial on VAEs: 직관과 수식, 실무 포인트를 균형 있게 정리한 고전 튜토리얼입니다.[1]
