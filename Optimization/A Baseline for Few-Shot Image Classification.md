@@ -2,6 +2,19 @@
 
 ## 1. 핵심 주장과 주요 기여 (간결 요약)
 이 논문은 **표준 크로스엔트로피로 사전학습(pre-training)**한 딥넷을 **전이학습(transductive fine-tuning)**만으로 미세조정했을 때, 기존 복잡한 메타러닝·메트릭 기반 방법을 능가하는 **간단하면서도 강력한 베이스라인**임을 밝힌다.  
+
+<details>
+<summary>Transductive fine-tuning</summary>
+Transductive fine-tuning은 기존의 사전학습된 모델을 새로운 데이터에 맞게 조정하는 fine-tuning 방식 중 하나로, 주로 새로운 데이터(특히 라벨이 없는 테스트 데이터)의 구조나 분포 정보를 함께 활용하여 모델 성능을 개선하는 방법입니다. 일반적인 inductive 학습과 달리, test 데이터 자체를 활용한다는 점에서 transductive 학습 범주에 속합니다.
+
+Test 데이터(쿼리셋)를 고려한 조정: 테스트 시점에서 주어진 unlabeled 데이터를 모델 학습에 함께 사용해 예측 정확도를 높입니다.
+
+상호정보량(Maximization)을 활용: 예를 들어, Few-Shot Learning 분야에서 query feature와 예측 레이블 간의 상호정보량을 최대화하는 방식으로 테스트 집합에 특화된 fine-tuning을 시도합니다.
+
+비지도적 정보 활용: 테스트 데이터의 분포나 레이블 없는 특징을 추론해 모델이 더 잘 일반화하도록 돕습니다.
+
+</details>
+
 주요 기여:
 - **트랜스덕티브 미세조정(transductive fine-tuning)** 기법 제안  
 - 표준 벤치마크( Mini-ImageNet, Tiered-ImageNet, CIFAR-FS, FC-100 ) 및 대규모 ImageNet-21k에서 **최신 기법 대비 2–7% 절대 성능 향상**  
