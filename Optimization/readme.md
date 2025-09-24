@@ -8,6 +8,7 @@
 - Efficient Parametrization of Multi-Domain Deep Neural Networks | 2018 · 488회 인용, Domain apaption
 - Episodic Training for Domain Generalization | 2019 · 585회 인용, Domain Generalization, Episodic Training, Meta-Learning
 - Incremental Learning Through Deep Adaptation | 2017 · 342회 인용, Incremental Learning
+- Incremental Multi-domain Learning with Network Latent Tensor Factorization | 2019 · 45회 인용, Domain adaption
 
 
 ## Reference
