@@ -70,7 +70,7 @@ c_j \leftarrow c_j + \alpha\,(\mu_j - c_j),
 - **Inductive 1-shot/5-shot**: PT+NCM이 기존 방법 대비 1–2%p 향상 (miniImageNet: 65.35%→ PT+NCM 65.35%)[표 참조].  
 - **Transductive 1-shot/5-shot**: PT+MAP이 최상위 성능 달성 (miniImageNet: 82.92%/88.82% vs. 이전 최고 ~78%/86%)[표 참조].  
 - **크로스 도메인**: miniImageNet→CUB 전이에서도 Transductive PT+MAP 62.49%/76.51%로 우수.  
-- **소수 쿼리 민감도**: $$q$$가 $$5$$~$$15$$일 때 급격히 성능 향상 후 포화, 적은 쿼리만으로도 정보 활용 가능(Fig.4).  
+- **소수 쿼리 민감도**: $$q$$가 $$5$$ ~ $$15$$일 때 급격히 성능 향상 후 포화, 적은 쿼리만으로도 정보 활용 가능(Fig.4).  
 - **클래스 불균형**: 비율을 근사치로만 알아도 Transductive MAP이 Inductive를 뛰어넘음(Fig.3).
 
 ### 3.2 한계  
