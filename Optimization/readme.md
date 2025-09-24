@@ -7,6 +7,7 @@
 - DMTRL : Deep Multi-task Representation Learning: A Tensor Factorisation Approach | 2016 · 341회 인용, Domain adaption
 - Efficient Parametrization of Multi-Domain Deep Neural Networks | 2018 · 488회 인용, Domain apaption
 - Episodic Training for Domain Generalization | 2019 · 585회 인용, Domain Generalization, Episodic Training, Meta-Learning
+- Incremental Learning Through Deep Adaptation | 2017 · 342회 인용, Incremental Learning
 
 
 ## Reference
