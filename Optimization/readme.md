@@ -6,6 +6,7 @@
 - Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation | 2020 · 552회 인용, Few-Shot Learning, Learning-to-Learn Approach (Meta-Learning)
 
 
+## Reference
 - Advancing medical Imaging Informatics by Deep Learning-Based Domain Adaptation : https://ballentain.tistory.com/m/69
 - MMD : https://bommbom.tistory.com/entry/Maximum-Mean-DiscrepancyMMD-%EC%B5%9C%EB%8C%80-%ED%8F%89%EA%B7%A0-%EB%B6%88%EC%9D%BC%EC%B9%98-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC
 - VAE 계열 모델의 ELBO(Evidence Lower Bound) 분석 : https://glanceyes.com/entry/VAE-%EA%B3%84%EC%97%B4-%EB%AA%A8%EB%8D%B8%EC%9D%98-ELBOEvidence-Lower-Bound-%EB%B6%84%EC%84%9D
