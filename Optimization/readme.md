@@ -14,6 +14,7 @@
 - PT-MAP : Leveraging the Feature Distribution in Transfer-based Few-Shot Learning | 2020 · 233회 인용, Few-shot learning
 - Matching Networks for One Shot Learning | 2016 · 9832회 인용, Image classification, One shot learning, Meta-Learning
 - MetaReg: Towards Domain Generalization using Meta-Regularization | 2018 · 897회 인용, Domain Generalization, Meta-Learning
+- Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights | 2018 · 876회 인용, Domain adaption
 
 
 ## Reference
