@@ -4,6 +4,7 @@
 
 ## Papers
 - Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation | 2020 · 552회 인용, Few-Shot Learning, Learning-to-Learn Approach (Meta-Learning)
+- DMTRL : Deep Multi-task Representation Learning: A Tensor Factorisation Approach | 2016 · 341회 인용, Domain adaption
 
 
 ## Reference
