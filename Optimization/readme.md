@@ -15,6 +15,8 @@
 - Matching Networks for One Shot Learning | 2016 · 9832회 인용, Image classification, One shot learning, Meta-Learning
 - MetaReg: Towards Domain Generalization using Meta-Regularization | 2018 · 897회 인용, Domain Generalization, Meta-Learning
 - Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights | 2018 · 876회 인용, Domain adaption
+- Prototype Rectification for Few-Shot Learning | 2019 · 379회 인용, Image classification
+- Prototypical Networks for Few-Shot Learning | 2017 · 11667회 인용, Image classification, Few-shot Learning
 
 
 ## Reference
