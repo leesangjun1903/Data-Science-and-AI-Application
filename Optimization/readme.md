@@ -11,6 +11,7 @@
 - Incremental Multi-domain Learning with Network Latent Tensor Factorization | 2019 · 45회 인용, Domain adaption
 - Latent Domain Learning with Dynamic Residual Adapters | 2020 · 5회 인용, Domain adaption, Dynamic Residual Adapters
 - Learning multiple visual domains with residual adapters | 2017 · 1158회 인용, Domain adaption, residual apapters
+- PT-MAP : Leveraging the Feature Distribution in Transfer-based Few-Shot Learning | 2020 · 233회 인용, Few-shot learning
 
 
 ## Reference
