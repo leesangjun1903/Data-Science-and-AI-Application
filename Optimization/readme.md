@@ -12,6 +12,7 @@
 - Latent Domain Learning with Dynamic Residual Adapters | 2020 · 5회 인용, Domain adaption, Dynamic Residual Adapters
 - Learning multiple visual domains with residual adapters | 2017 · 1158회 인용, Domain adaption, residual apapters
 - PT-MAP : Leveraging the Feature Distribution in Transfer-based Few-Shot Learning | 2020 · 233회 인용, Few-shot learning
+- Matching Networks for One Shot Learning | 2016 · 9832회 인용, Image classification, One shot learning, Meta-Learning
 
 
 ## Reference
