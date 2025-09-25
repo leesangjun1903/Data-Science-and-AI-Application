@@ -17,6 +17,7 @@
 - Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights | 2018 · 876회 인용, Domain adaption
 - Prototype Rectification for Few-Shot Learning | 2019 · 379회 인용, Image classification
 - Prototypical Networks for Few-Shot Learning | 2017 · 11667회 인용, Image classification, Few-shot Learning
+- Transductive Information Maximization for Few-Shot Learning | 2020 · 245회 인용, Image classificaiton, Few-Shot Learning
 
 
 ## Reference
