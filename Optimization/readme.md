@@ -18,6 +18,8 @@
 - Prototype Rectification for Few-Shot Learning | 2019 · 379회 인용, Image classification
 - Prototypical Networks for Few-Shot Learning | 2017 · 11667회 인용, Image classification, Few-shot Learning
 - Transductive Information Maximization for Few-Shot Learning | 2020 · 245회 인용, Image classificaiton, Few-Shot Learning
+- LCM-LoRA: A Universal Stable-Diffusion Acceleration Module | 2023 · 180회 인용, Accelerate Sampling
+
 
 
 ## Reference
