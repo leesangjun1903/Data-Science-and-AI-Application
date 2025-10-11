@@ -1,4 +1,4 @@
-# Quantized Neural Networks
+# Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations
 
 **핵심 주장**  
 이 논문은 신경망의 가중치(weights)와 활성화(activations)를 극단적으로 낮은 정밀도(심지어 1-bit)로 양자화(quantization)하면서도 학습과 추론 시 정확도를 크게 손실하지 않는 **Quantized Neural Networks (QNNs)** 훈련 기법을 제안한다.
