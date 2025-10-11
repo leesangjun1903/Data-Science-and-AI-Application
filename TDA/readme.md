@@ -1,6 +1,9 @@
 # Awesome TDA
 https://github.com/lrnzgiusti/awesome-topological-deep-learning?tab=readme-ov-file
 
+# Papers
+- TopologyNet: Topology-Based Deep Convolutional Neural Networks for Biomolecular Property Predictions | 2017 · 387회 인용
+
 ## Topos and Stacks of Deep Neural Networks, Jean-Claude Belfiore
 Architectures  
 Stacks of DNNs  
