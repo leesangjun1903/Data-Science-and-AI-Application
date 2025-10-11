@@ -2,6 +2,7 @@
 https://github.com/lrnzgiusti/awesome-topological-deep-learning?tab=readme-ov-file
 
 # Papers
+- A Stable Multi-Scale Kernel for Topological Machine Learning | 2014 · 484회 인용
 - TopologyNet: Topology-Based Deep Convolutional Neural Networks for Biomolecular Property Predictions | 2017 · 387회 인용
 
 ## Topos and Stacks of Deep Neural Networks, Jean-Claude Belfiore
