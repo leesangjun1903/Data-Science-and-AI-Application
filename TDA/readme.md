@@ -2,11 +2,13 @@
 https://github.com/lrnzgiusti/awesome-topological-deep-learning?tab=readme-ov-file
 
 # Papers
+- Mapper : Topological Methods for the Analysis of High Dimensional Data Sets and 3D Object Recognition | 2007 · 1016회 인용
 - A Stable Multi-Scale Kernel for Topological Machine Learning | 2014 · 484회 인용
 - Persistence Images: A Stable Vector Representation of Persistent Homology | 2015 · 1061회 인용
 - TopologyNet: Topology-Based Deep Convolutional Neural Networks for Biomolecular Property Predictions | 2017 · 387회 인용
 - PersLay: A Neural Network Layer for Persistence Diagrams and New Graph Topological Signatures | 2019 · 264회 인용
 - A Topological Loss Function for Deep-Learning based Image Segmentation using Persistent Homology | 2019 · 346회 인용
+- 
 
 ## Topos and Stacks of Deep Neural Networks, Jean-Claude Belfiore
 Architectures  
