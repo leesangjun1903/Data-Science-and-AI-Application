@@ -23,6 +23,7 @@
 - Active Learning for Domain Adaptation: An Energy-Based Approach | 2021 · 172회 인용, Image Classification, Domain Adaption
 - Oops I Took A Gradient: Scalable Sampling for Discrete Distributions | 2021 · 123회 인용. Discrete Sampling
 - Learning the Stein Discrepancy for Training and Evaluating Energy-Based Models without Sampling | 2020 · 114회 인용, Sampling Technique
+- ICE-BeeM: Identifiable Conditional Energy-Based Deep Models Based on Nonlinear ICA | 2020 · 172회 인용
 
 
 
