@@ -6,6 +6,7 @@
 - Survey
 - node2vec: Scalable Feature Learning for Networks | 2016 · 14933회 인용
 - Few-Shot Learning with Graph Neural Networks | 2017 · 1181회 인용
+- Learning Steady-States of Iterative Algorithms over Graphs | 2018 · 315회 인용
 - Permutation Invariant Graph Generation via Score-Based Generative Modeling | 2020 · 347회 인용
 - Topological Graph Neural Networks | 2021 · 226회 인용
 
