@@ -22,6 +22,7 @@
 - Agent Attention: On the Integration of Softmax and Linear Attention | 2023 · 216회 인용, Attention Mechanism
 - Active Learning for Domain Adaptation: An Energy-Based Approach | 2021 · 172회 인용, Image Classification, Domain Adaption
 - Oops I Took A Gradient: Scalable Sampling for Discrete Distributions | 2021 · 123회 인용. Discrete Sampling
+- Learning the Stein Discrepancy for Training and Evaluating Energy-Based Models without Sampling | 2020 · 114회 인용, Sampling Technique
 
 
 
