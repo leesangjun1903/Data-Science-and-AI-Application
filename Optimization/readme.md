@@ -21,6 +21,7 @@
 - LCM-LoRA: A Universal Stable-Diffusion Acceleration Module | 2023 · 180회 인용, Accelerate Sampling
 - Agent Attention: On the Integration of Softmax and Linear Attention | 2023 · 216회 인용, Attention Mechanism
 - Active Learning for Domain Adaptation: An Energy-Based Approach | 2021 · 172회 인용, Image Classification, Domain Adaption
+- Oops I Took A Gradient: Scalable Sampling for Discrete Distributions | 2021 · 123회 인용. Discrete Sampling
 
 
 
