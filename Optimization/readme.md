@@ -20,6 +20,8 @@
 - Transductive Information Maximization for Few-Shot Learning | 2020 · 245회 인용, Image classificaiton, Few-Shot Learning
 - LCM-LoRA: A Universal Stable-Diffusion Acceleration Module | 2023 · 180회 인용, Accelerate Sampling
 - Agent Attention: On the Integration of Softmax and Linear Attention | 2023 · 216회 인용, Attention Mechanism
+- Active Learning for Domain Adaptation: An Energy-Based Approach | 2021 · 172회 인용, Image Classification, Domain Adaption
+
 
 
 
