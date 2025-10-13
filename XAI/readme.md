@@ -5,6 +5,7 @@
 - Interpretability Techniques for Deep Learning : https://paperswithcode.com/task/interpretability-techniques-for-deep-learning
 
 ## Papers
+- Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization | 2016 · 33424회 인용
 - Interpreting CNNs via Decision Trees | 2018 · 462회 인용
 - GAN Dissection: Visualizing and Understanding Generative Adversarial Networks | 2018 · 714회 인용
 - Counterfactual Visual Explanations | 2019 · 711회 인용
