@@ -1,5 +1,4 @@
-# Integrated Gradients
-# "Axiomatic Attribution for Deep Networks" 논문 요약
+# Integrated Gradients : Axiomatic Attribution for Deep Networks
 
 ## **핵심 주장과 주요 기여**
 
