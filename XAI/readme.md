@@ -4,6 +4,9 @@
 - Awesome XAI : https://github.com/altamiracorp/awesome-xai
 - Interpretability Techniques for Deep Learning : https://paperswithcode.com/task/interpretability-techniques-for-deep-learning
 
+## Papers
+- Interpreting CNNs via Decision Trees | 2018 · 462회 인용
+
 ## Interpretable Machine Learning, Christoph Molnar
 https://christophm.github.io/interpretable-ml-book/
 
