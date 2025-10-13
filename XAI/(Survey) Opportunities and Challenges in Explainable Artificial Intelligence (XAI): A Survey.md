@@ -63,3 +63,8 @@ $$ S_{C,k,j}(x) = \lim_{\epsilon\to0} \frac{h_{j,k}\big(z + \epsilon v_j^C\big) 
 향후 XAI 연구는 **정량적 평가 프레임워크** 구축에 집중해야 하며, **사람-모델 상호작용**을 고려한 인간 중심 평가가 중요하다. 또한, **개념 자동 발굴**과 **도메인 제약 통합**을 통해 설명력과 일반화 성능을 동시에 개선하는 하이브리드 접근이 기대된다.
 
 [1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/65988149/8ddf5143-755e-4b60-bf0c-d7190f2710f6/2006.11371v2.pdf)
+
+XAI survey paper review
+
+https://velog.io/@tobigs_xai/3%EC%A3%BC%EC%B0%A8-XAI-survey-paper-review-2
+
