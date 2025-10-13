@@ -12,6 +12,7 @@
 - RISE: Randomized Input Sampling for Explanation of Black-box Models | 2018 · 1700회 인용
 - Counterfactual Visual Explanations | 2019 · 711회 인용
 - LayerCAM: Exploring Hierarchical Class Activation Maps for Localization | 2021 · 1185회 인용
+- Relevance-CAM: Your Model Already Knows Where to Look | 2021 · 108회 인용
 
 ## Interpretable Machine Learning, Christoph Molnar
 https://christophm.github.io/interpretable-ml-book/
