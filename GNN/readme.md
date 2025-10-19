@@ -5,6 +5,7 @@
 ## Papers
 - Survey
 - node2vec: Scalable Feature Learning for Networks | 2016 · 14933회 인용
+- Semi-Supervised Classification with Graph Convolutional Networks | 2016 · 49836회 인용
 - Few-Shot Learning with Graph Neural Networks | 2017 · 1181회 인용
 - Learning Steady-States of Iterative Algorithms over Graphs | 2018 · 315회 인용
 - SuperGlue: Learning Feature Matching with Graph Neural Networks | 2019 · 3344회 인용
@@ -15,7 +16,6 @@
 
 
 - 수정필:
-- Convolutional Graph Neural Networks
 - Graph Autoencoders
 - Spatial-Temporal Graph Neural Networks
 - Application(Computer Vision, NLP, Social Network(Internet), Recommend System, Healthcare, Chemistry, Physics)
