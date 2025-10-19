@@ -15,7 +15,6 @@
 
 
 - 수정필:
-- Recuurent Graph Neural Networks
 - Convolutional Graph Neural Networks
 - Graph Autoencoders
 - Spatial-Temporal Graph Neural Networks
