@@ -75,9 +75,11 @@ $$
 논문에서는 **위치 인코딩(Positional Encoding, PE)** 개념을 도입해 MP-GCN의 이론적 한계를 보완하였다.  
 - **Laplacian PE**: 그래프 라플라시안 고유 벡터 $$U$$의 처음 k개 비자명(eigenvectors, non-trivial)으로 노드별 위치 표현 추가  
 - **수식**:  
+
 $$
 \Delta = I - D^{-1/2}AD^{-1/2} = U\Lambda U^\top,\quad p_i = [U_{i,2},\dots,U_{i,k+1}]
 $$
+
 이후 원래 특징 $$x_i$$에 $$p_i$$를 더해 입력함으로써, **동형 그래프 구분 능력** 및 **일반화 성능**이 크게 향상됨을 보였다.  
 - **결과**: CSL, CYCLES 등 이론적 검증용 데이터에서 PE 적용 시 1-WL 한계를 극복하고 100% 정확도 달성.[1]
 
