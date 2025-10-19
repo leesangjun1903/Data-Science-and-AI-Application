@@ -10,6 +10,7 @@
 - SuperGlue: Learning Feature Matching with Graph Neural Networks | 2019 · 3344회 인용
 - AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models | 2019 · 121회 인용
 - Permutation Invariant Graph Generation via Score-Based Generative Modeling | 2020 · 347회 인용
+- Gated Graph Recurrent Neural Networks | 2020 · 248회 인용
 - Topological Graph Neural Networks | 2021 · 226회 인용
 
 
