@@ -4,6 +4,7 @@
 
 ## Papers
 - Survey
+- Gated Graph Sequence Neural Networks | 2015 · 4683회 인용
 - node2vec: Scalable Feature Learning for Networks | 2016 · 14933회 인용
 - Semi-Supervised Classification with Graph Convolutional Networks | 2016 · 49836회 인용
 - Variational Graph Auto-Encoders | 2016 · 4070회 인용
