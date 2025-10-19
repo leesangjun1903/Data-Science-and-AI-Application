@@ -10,6 +10,7 @@
 - Variational Graph Auto-Encoders | 2016 · 4070회 인용
 - Few-Shot Learning with Graph Neural Networks | 2017 · 1181회 인용
 - GraphSAGE : Inductive Representation Learning on Large Graphs | 2017 · 22697회 인용
+- Graph Attention Networks | 2017 · 17046회 인용
 - Learning Steady-States of Iterative Algorithms over Graphs | 2018 · 315회 인용
 - GIN : How Powerful are Graph Neural Networks? | 2018 · 11898회 인용
 - SuperGlue: Learning Feature Matching with Graph Neural Networks | 2019 · 3344회 인용
