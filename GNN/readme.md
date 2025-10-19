@@ -14,7 +14,9 @@
 - AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models | 2019 · 121회 인용
 - Permutation Invariant Graph Generation via Score-Based Generative Modeling | 2020 · 347회 인용
 - Gated Graph Recurrent Neural Networks | 2020 · 248회 인용
+- Benchmarking Graph Neural Networks | 2020 · 1523회 인용
 - Topological Graph Neural Networks | 2021 · 226회 인용
+- 
 
 
 - Application(Computer Vision, NLP, Social Network(Internet), Recommend System, Healthcare, Chemistry, Physics)
