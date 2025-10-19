@@ -2,6 +2,7 @@
 - https://github.com/ch-wan/awesome-gnn-systems
 - https://github.com/hazdzz/awesome-gnn
 - https://github.com/TrustAGI-Lab/Awesome-Graph-Neural-Networks?tab=readme-ov-file
+- https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers
 
 ## Papers
 - Survey
