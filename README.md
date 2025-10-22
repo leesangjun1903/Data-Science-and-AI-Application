@@ -29,18 +29,26 @@
 
 ## Awesome series
 - Awesome AI & Data GitHub-Repos https://github.com/youssefHosni/Awesome-AI-Data-GitHub-Repos?tab=readme-ov-file
-- Awesome Recurrent Neural Networks https://github.com/kjw0612/awesome-rnn
-- Awesome Deep Vision https://github.com/kjw0612/awesome-deep-vision
-- Awesome Random Forest https://github.com/kjw0612/awesome-random-forest
 - Awesome Deep Learning https://github.com/ChristosChristofidis/awesome-deep-learning
-- Awesome - Most Cited Deep Learning Papers https://github.com/terryum/awesome-deep-learning-papers
-- Awesome TDL : https://github.com/lrnzgiusti/awesome-topological-deep-learning?tab=readme-ov-file
-- Project Based Learning https://github.com/tuvtran/project-based-learning
-- Paper with code(~2018) https://github.com/zziz/pwc
 - Awesome Deep learning papers and other resources : https://github.com/endymecy/awesome-deeplearning-resources
 - Awesome Deep Learning : https://github.com/ChristosChristofidis/awesome-deep-learning?tab=readme-ov-file#tutorials
-- Top Genetic Algorithm Github repositories : https://github.com/rafa2000/Top-Genetic-Algorithm
+
+
+## Models
+- Awesome Recurrent Neural Networks https://github.com/kjw0612/awesome-rnn
+- Awesome - Most Cited Deep Learning Papers https://github.com/terryum/awesome-deep-learning-papers
+
+## TDA
+- Awesome TDL : https://github.com/lrnzgiusti/awesome-topological-deep-learning?tab=readme-ov-file
+
+## Application
+- Project Based Learning https://github.com/tuvtran/project-based-learning
 - Winning solutions of kaggle competitions : https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook
+
+## Genetic Algorithms
+- Top Genetic Algorithm Github repositories : https://github.com/rafa2000/Top-Genetic-Algorithm
+
+## Quantum
 - Awesome Quantum Machine Learning : https://github.com/krishnakumarsekar/awesome-quantum-machine-learning
 
 ## Challenge
