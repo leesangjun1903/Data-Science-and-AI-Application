@@ -51,6 +51,10 @@
 ## Quantum
 - Awesome Quantum Machine Learning : https://github.com/krishnakumarsekar/awesome-quantum-machine-learning
 
+## Optimization
+- Awesome Pruning : https://github.com/he-y/Awesome-Pruning
+
+
 ## Challenge
 - 데이콘 : https://dacon.io/
 - kaggle : https://www.kaggle.com/
