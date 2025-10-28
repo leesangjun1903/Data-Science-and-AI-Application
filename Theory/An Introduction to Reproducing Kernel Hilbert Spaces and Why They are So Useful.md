@@ -1,4 +1,4 @@
-# Reproducing Kernel Hilbert Space와 주요 정리들: 수식과 개념 설명
+# An Introduction to Reproducing Kernel Hilbert Spaces and Why They are So Useful
 
 본 논문에서 제시된 재생핵 힐베르트 공간(Reproducing Kernel Hilbert Space, RKHS)의 핵심 정리들을 수식과 함께 자세히 설명드리겠습니다.
 
