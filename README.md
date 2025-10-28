@@ -20,12 +20,13 @@
 # Chatbot
 - Chatgpt
 - Perplexity
-- Gemini
+- Gemini : https://gemini.google.com/app
 - Deepseekcode : https://chat.deepseek.com/
 - Claude
-- Qwen
-- 에이닷
-- Mistral : https://chat.mistral.ai/chat  
+- Qwen : https://chat.qwen.ai/
+- 에이닷 : https://adot.ai/search/
+- Mistral : https://chat.mistral.ai/chat
+- Kimi : https://www.kimi.com/
 
 ## Awesome series
 - Awesome AI & Data GitHub-Repos https://github.com/youssefHosni/Awesome-AI-Data-GitHub-Repos?tab=readme-ov-file
