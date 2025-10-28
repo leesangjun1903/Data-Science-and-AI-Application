@@ -39,9 +39,6 @@
 - Awesome Recurrent Neural Networks https://github.com/kjw0612/awesome-rnn
 - Awesome - Most Cited Deep Learning Papers https://github.com/terryum/awesome-deep-learning-papers
 
-## TDA
-- Awesome TDL : https://github.com/lrnzgiusti/awesome-topological-deep-learning?tab=readme-ov-file
-
 ## Application
 - Project Based Learning https://github.com/tuvtran/project-based-learning
 - Winning solutions of kaggle competitions : https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook
