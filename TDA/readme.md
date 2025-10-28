@@ -1,5 +1,5 @@
-# Awesome TDA
-https://github.com/lrnzgiusti/awesome-topological-deep-learning?tab=readme-ov-file
+# Awesome series
+- Awesome TDL : https://github.com/lrnzgiusti/awesome-topological-deep-learning?tab=readme-ov-file
 
 # Papers
 - Mapper : Topological Methods for the Analysis of High Dimensional Data Sets and 3D Object Recognition | 2007 · 1016회 인용
