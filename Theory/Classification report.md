@@ -72,7 +72,7 @@ print("Recall:   ", recall_score(y_test, y_pred))
 
 Precision과 Recall의 조화 평균입니다.  
 두 지표 간 불균형이 클수록 낮은 값에 더 가깝습니다.  
-$$ F1 = 2 \times \frac{Precision \times Recall}{Precision + Recall} $$
+$$F1 = 2 \times \frac{Precision \times Recall}{Precision + Recall} $$
 
 ```python
 from sklearn.metrics import f1_score
