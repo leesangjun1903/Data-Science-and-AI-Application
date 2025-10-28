@@ -27,6 +27,7 @@
 - On the Anatomy of MCMC-Based Maximum Likelihood Learning of Energy-Based Models | 2019 · 206회 인용
 - Your GAN is Secretly an Energy-based Model and You Should Use Discriminator Driven Latent Sampling | 2020 · 151회 인용, GAN Technique
 - Provably Robust Boosted Decision Stumps and Trees against Adversarial Attacks | 2019 · 335회 인용, Tree-based Model Robustness
+- Regularization With Stochastic Transformations and Perturbations for Deep Semi-Supervised Learning | 2016 · 1513회 인용, Semi-Supervised Learning
 
 
 
