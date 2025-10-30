@@ -3,6 +3,8 @@
 
 ## Awesome Series
 - Awesome Machine Learning for Combinatorial Optimization Resources : https://github.com/Thinklab-SJTU/awesome-ml4co
+- Awesome Pruning : https://github.com/he-y/Awesome-Pruning
+
 
 ## Papers
 - Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation | 2020 · 552회 인용, Few-Shot Learning, Learning-to-Learn Approach (Meta-Learning)
