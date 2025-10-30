@@ -40,12 +40,13 @@
 ### State Space Model
 - Awesome-state-space-models : https://github.com/radarFudan/Awesome-state-space-models
 
-### Protein Structure Prediction
-- Awesome Protein Structure Prediction and Design Software List : https://github.com/pansapiens/awesome-protein-design-software?tab=readme-ov-file
-
 ## Models
 - Awesome Recurrent Neural Networks https://github.com/kjw0612/awesome-rnn
 - Awesome - Most Cited Deep Learning Papers https://github.com/terryum/awesome-deep-learning-papers
+
+### Protein Structure Prediction
+- Awesome Protein Structure Prediction and Design Software List : https://github.com/pansapiens/awesome-protein-design-software?tab=readme-ov-file
+
 
 ## Application
 - Project Based Learning https://github.com/tuvtran/project-based-learning
@@ -56,9 +57,6 @@
 
 ## Quantum
 - Awesome Quantum Machine Learning : https://github.com/krishnakumarsekar/awesome-quantum-machine-learning
-
-## Optimization
-- Awesome Pruning : https://github.com/he-y/Awesome-Pruning
 
 
 ## Challenge
