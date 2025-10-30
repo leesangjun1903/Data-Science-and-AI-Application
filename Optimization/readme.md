@@ -1,6 +1,8 @@
 # Optimization
 > ## Learning Hyperparameter Tuning, Loss function(Cost function), Objective function optimization, Meta-Learning, Few-Shot Learning, Multi-task Learning, Domain Adaption, Metric Learning, PU-Learning(Positive-Unlabeled Learning), Curriculum Learning, Activation function, Layer Fine-Tuning, Topos and stacks(Not verified)
 
+## Awesome Series
+- Awesome Machine Learning for Combinatorial Optimization Resources : https://github.com/Thinklab-SJTU/awesome-ml4co
 
 ## Papers
 - Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation | 2020 · 552회 인용, Few-Shot Learning, Learning-to-Learn Approach (Meta-Learning)
