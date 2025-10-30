@@ -37,7 +37,10 @@
 - Awesome Deep Learning papers for industrial Search, Recommendation and Advertisement : https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising
 - 
 
+### State Space Model
+- Awesome-state-space-models : https://github.com/radarFudan/Awesome-state-space-models
 
+### Protein Structure Prediction
 - Awesome Protein Structure Prediction and Design Software List : https://github.com/pansapiens/awesome-protein-design-software?tab=readme-ov-file
 
 ## Models
