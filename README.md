@@ -27,6 +27,7 @@
 - 에이닷 : https://adot.ai/search/
 - Mistral : https://chat.mistral.ai/chat
 - Kimi : https://www.kimi.com/
+- GPT OSS : https://openai.com/ko-KR/open-models/, https://gpt-oss.com/
 
 ## Awesome series
 - Awesome AI & Data GitHub-Repos https://github.com/youssefHosni/Awesome-AI-Data-GitHub-Repos?tab=readme-ov-file
