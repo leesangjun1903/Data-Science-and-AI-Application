@@ -44,22 +44,26 @@
 
 - Awesome Spiking Neural Networks : https://github.com/TheBrainLab/Awesome-Spiking-Neural-Networks
 
+### Genetic Algorithms
+- Top Genetic Algorithm Github repositories : https://github.com/rafa2000/Top-Genetic-Algorithm
+
+### Quantum
+- Awesome Quantum Machine Learning : https://github.com/krishnakumarsekar/awesome-quantum-machine-learning
+
 ### State Space Model
 - Awesome-state-space-models : https://github.com/radarFudan/Awesome-state-space-models
-
-### Protein Structure Prediction
-- Awesome Protein Structure Prediction and Design Software List : https://github.com/pansapiens/awesome-protein-design-software?tab=readme-ov-file
 
 
 ## Application
 - Project Based Learning https://github.com/tuvtran/project-based-learning
 - Winning solutions of kaggle competitions : https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook
+- Awesome Vector Search : https://github.com/currentslab/awesome-vector-search
 
-## Genetic Algorithms
-- Top Genetic Algorithm Github repositories : https://github.com/rafa2000/Top-Genetic-Algorithm
+### Fashion
+- awesome-fashion-ai : https://github.com/ayushidalmia/awesome-fashion-ai
 
-## Quantum
-- Awesome Quantum Machine Learning : https://github.com/krishnakumarsekar/awesome-quantum-machine-learning
+### Protein Structure Prediction
+- Awesome Protein Structure Prediction and Design Software List : https://github.com/pansapiens/awesome-protein-design-software?tab=readme-ov-file
 
 
 ## Challenge
