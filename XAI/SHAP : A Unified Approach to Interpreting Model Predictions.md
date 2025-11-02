@@ -79,3 +79,7 @@ SHAP 프레임워크는 해석 기법 통합과 원칙 확립을 통해 추후 �
 이와 같은 방향은 해석 가능성뿐 아니라, 해석 기반 특성 공학(feature engineering)과 피처 선택에도 중요한 통찰을 제공할 것이다.
 
 [1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/65988149/be8f6122-a535-427d-a252-912007ef187e/NIPS-2017-a-unified-approach-to-interpreting-model-predictions-Paper.pdf)
+
+
+25. Shapley Value와 SHAP에 대해서 알아보자 with Python :
+https://zephyrus1111.tistory.com/271
