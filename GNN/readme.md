@@ -8,6 +8,7 @@
 - Survey
 - The Graph Neural Network Model | 2008 · 12025회 인용
 - Graph Echo State Networks | 2010 · 323회 인용
+- DeepWalk: Online Learning of Social Representations | 2014 · 13305회 인용
 - Gated Graph Sequence Neural Networks | 2015 · 4683회 인용
 - node2vec: Scalable Feature Learning for Networks | 2016 · 14933회 인용
 - Semi-Supervised Classification with Graph Convolutional Networks | 2016 · 49836회 인용
