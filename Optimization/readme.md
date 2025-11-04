@@ -34,6 +34,7 @@
 - Regularization With Stochastic Transformations and Perturbations for Deep Semi-Supervised Learning | 2016 · 1513회 인용, Semi-Supervised Learning
 - A Tutorial on Bayesian Optimization | 2018 · 3458회 인용, Optimization
 - Taking the Human Out of the Loop: A Review of Bayesian Optimization | 2015 · 7154회 인용, Optimization
+- Maxout Networks | 2013 · 3283회 인용
 
 
 
