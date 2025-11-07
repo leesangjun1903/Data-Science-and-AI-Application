@@ -66,6 +66,8 @@
 ### Protein Structure Prediction
 - Awesome Protein Structure Prediction and Design Software List : https://github.com/pansapiens/awesome-protein-design-software?tab=readme-ov-file
 
+## MLops
+- Awesome MLOps : https://github.com/visenger/awesome-mlops?tab=readme-ov-file
 
 ## Challenge
 - 데이콘 : https://dacon.io/
