@@ -36,6 +36,7 @@
 - Taking the Human Out of the Loop: A Review of Bayesian Optimization | 2015 · 7154회 인용, Optimization
 - Maxout Networks | 2013 · 3283회 인용
 - Representation Learning with Contrastive Predictive Coding | 2018 · 13290회 인용
+- Bridging Theory and Algorithm for Domain Adaptation | 2019 · 1024회 인용
 
 
 
