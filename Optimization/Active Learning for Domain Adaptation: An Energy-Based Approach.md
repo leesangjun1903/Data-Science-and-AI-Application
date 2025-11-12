@@ -1,4 +1,5 @@
 # Active Learning for Domain Adaptation: An Energy-Based Approach | 2021 · 172회 인용, Image Classification
+https://github.com/BIT-DA/EADA
 
 ## 1. 핵심 주장 및 주요 기여 요약  
 이 논문은 **도메인 적응(domain adaptation)** 상황에서 라벨링 비용을 최소화하며 새로운 도메인에서 모델 성능을 향상시키기 위한 **액티브 러닝(active learning)** 전략을 제안한다. 기존의 액티브 러닝은 주로 불확실성 기반 선택에 의존하나 도메인 간 분포 차이에 취약한 반면, 본 논문은 **에너지 기반 모델(energy-based model, EBM)** 을 활용해 소스와 타깃 도메인 데이터 모두에 걸쳐 “에너지” 값을 계산하고, 이 값을 기준으로 타깃 도메인에서 가장 정보량이 높은 샘플을 선별한다.  
