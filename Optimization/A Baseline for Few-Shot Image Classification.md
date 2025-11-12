@@ -1,4 +1,5 @@
 # A Baseline for Few-Shot Image Classification | Few-Shot Learning
+https://github.com/amazon-science/few-shot-baseline
 
 ## 1. 핵심 주장과 주요 기여 (간결 요약)
 이 논문은 **표준 크로스엔트로피로 사전학습(pre-training)**한 딥넷을 **전이학습(transductive fine-tuning)**만으로 미세조정했을 때, 기존 복잡한 메타러닝·메트릭 기반 방법을 능가하는 **간단하면서도 강력한 베이스라인**임을 밝힌다.  
