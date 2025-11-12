@@ -40,6 +40,7 @@
 - On Learning Invariant Representation for Domain Adaptation | 2019 · 811회 인용
 - Reusing the Task-specific Classifier as a Discriminator: Discriminator-free Adversarial Domain Adaptation | 2022 · 252회 인용
 - A Closer Look at Smoothness in Domain Adversarial Training | 2022 · 187회 인용
+- ToAlign: Task-oriented Alignment for Unsupervised Domain Adaptation | 2021 · 111회 인용
 
 
 
