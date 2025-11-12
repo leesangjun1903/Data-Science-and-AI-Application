@@ -503,4 +503,8 @@ $$
 [38](https://leenashekhar.github.io/2019-01-30-KL-Divergence/)
 [39](https://gregorygundersen.com/blog/2021/04/16/variational-inference/)
 
+- Variational-AutoEncoder와 ELBO(Evidence Lower Bound):
 https://hugrypiggykim.com/2018/09/07/variational-autoencoder%EC%99%80-elboevidence-lower-bound/
+
+- VAE 계열 모델의 ELBO(Evidence Lower Bound) 분석 : https://glanceyes.com/entry/VAE-%EA%B3%84%EC%97%B4-%EB%AA%A8%EB%8D%B8%EC%9D%98-ELBOEvidence-Lower-Bound-%EB%B6%84%EC%84%9D
+
