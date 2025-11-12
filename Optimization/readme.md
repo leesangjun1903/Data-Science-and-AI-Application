@@ -37,6 +37,8 @@
 - Maxout Networks | 2013 · 3283회 인용
 - Representation Learning with Contrastive Predictive Coding | 2018 · 13290회 인용
 - Bridging Theory and Algorithm for Domain Adaptation | 2019 · 1024회 인용
+- On Learning Invariant Representation for Domain Adaptation | 2019 · 811회 인용
+- Reusing the Task-specific Classifier as a Discriminator: Discriminator-free Adversarial Domain Adaptation | 2022 · 252회 인용
 
 
 
