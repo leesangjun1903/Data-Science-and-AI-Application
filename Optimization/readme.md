@@ -50,6 +50,7 @@
 - Adversarial-Learned Loss for Domain Adaptation | 2020 · 243회 인용
 - Adversarial Domain Adaptation with Domain Mixup | 2019 · 556회 인용
 - Discriminative Adversarial Domain Adaptation | 2019 · 258회 인용
+- Transfer Learning with Dynamic Adversarial Adaptation Network | 2019 · 469회 인용
 
 
 
