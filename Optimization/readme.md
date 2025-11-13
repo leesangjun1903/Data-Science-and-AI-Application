@@ -42,6 +42,7 @@
 - A Closer Look at Smoothness in Domain Adversarial Training | 2022 · 187회 인용
 - ToAlign: Task-oriented Alignment for Unsupervised Domain Adaptation | 2021 · 111회 인용
 - Adversarial Unsupervised Domain Adaptation with Conditional and Label Shift: Infer, Align and Iterate | 2021 · 106회 인용
+- Cross-Domain Gradient Discrepancy Minimization for Unsupervised Domain Adaptation | 2021 · 242회 인용
 
 
 
