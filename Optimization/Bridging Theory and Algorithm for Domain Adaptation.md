@@ -1,4 +1,7 @@
 # Bridging Theory and Algorithm for Domain Adaptation
+https://github.com/thuml/Transfer-Learning-Library/blob/master/examples/domain_adaptation/image_classification/mdd.py
+
+https://github.com/thuml/MDD
 
 ## 1. 핵심 주장 및 주요 기여 (요약)
 
