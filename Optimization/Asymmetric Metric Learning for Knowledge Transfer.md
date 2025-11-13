@@ -1,4 +1,5 @@
 # Asymmetric Metric Learning for Knowledge Transfer
+https://github.com/budnikm/aml
 
 ## 1. 핵심 주장 및 주요 기여  
 본 논문은 대형 교사(teacher) 모델과 경량 학생(student) 모델 간의 **지식 전이(knowledge transfer)**를 메트릭 러닝(metric learning) 관점에서 통합하는 새로운 패러다임을 제안한다.  
