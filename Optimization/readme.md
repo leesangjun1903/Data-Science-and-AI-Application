@@ -47,6 +47,7 @@
 - Classes Matter: A Fine-grained Adversarial Approach to Cross-domain Semantic Segmentation | 2020 · 406회 인용
 - Gradually Vanishing Bridge for Adversarial Domain Adaptation | 2020 · 380회 인용
 - Implicit Class-Conditioned Domain Alignment for Unsupervised Domain Adaptation | 2020 · 169회 인용
+- Adversarial-Learned Loss for Domain Adaptation | 2020 · 243회 인용
 
 
 
