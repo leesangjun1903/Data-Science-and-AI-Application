@@ -1,4 +1,5 @@
 # Convex Multi-Task Feature Learning
+https://github.com/argyriou/multi_task_learning?tab=readme-ov-file
 
 **핵심 요약**  
 Convex Multi-Task Feature Learning은 여러 관련 작업(task)을 동시에 학습하면서 *공통의 희소한(feature) 표현*을 자동으로 학습하는 알고리즘을 제안한다. 이 방법은 비–볼록(non-convex) 문제를 볼록(convex) 최적화 문제로 변환하고, 교대로(alternating) 최적화하는 알고리즘을 통해 전역 최적해를 보장한다.
