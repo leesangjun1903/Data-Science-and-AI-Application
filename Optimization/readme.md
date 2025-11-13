@@ -49,6 +49,7 @@
 - Implicit Class-Conditioned Domain Alignment for Unsupervised Domain Adaptation | 2020 · 169회 인용
 - Adversarial-Learned Loss for Domain Adaptation | 2020 · 243회 인용
 - Adversarial Domain Adaptation with Domain Mixup | 2019 · 556회 인용
+- Discriminative Adversarial Domain Adaptation | 2019 · 258회 인용
 
 
 
