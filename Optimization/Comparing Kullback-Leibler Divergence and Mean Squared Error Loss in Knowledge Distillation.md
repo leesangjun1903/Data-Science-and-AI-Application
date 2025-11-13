@@ -1,4 +1,5 @@
 # Comparing Kullback-Leibler Divergence and Mean Squared Error Loss in Knowledge Distillation
+https://github.com/jhoon-oh/kd_data
 
 # 논문 요약 및 고찰
 
