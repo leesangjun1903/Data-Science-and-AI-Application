@@ -45,6 +45,7 @@
 - Cross-Domain Gradient Discrepancy Minimization for Unsupervised Domain Adaptation | 2021 · 242회 인용
 - MetaAlign: Coordinating Domain Alignment and Classification for Unsupervised Domain Adaptation | 2021 · 158회 인용
 - Classes Matter: A Fine-grained Adversarial Approach to Cross-domain Semantic Segmentation | 2020 · 406회 인용
+- Gradually Vanishing Bridge for Adversarial Domain Adaptation | 2020 · 380회 인용
 
 
 
