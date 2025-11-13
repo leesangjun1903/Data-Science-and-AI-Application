@@ -1,4 +1,5 @@
 # AutoAugment: Learning Augmentation Strategies from Data
+https://github.com/DeepVoltaire/AutoAugment
 
 **핵심 주장 및 주요 기여:**  
 AutoAugment는 이미지 분류 모델의 **일반화 성능**을 자동으로 개선하는 데이터 증강 정책을 **강화학습**을 통해 탐색하는 기법이다. 수동으로 설계되던 증강 기법을 대체하여, 확률·크기 등의 하이퍼파라미터를 포함한 **서브정책(Sub-policy)** 을 정의하고, 이를 최적화된 순서로 결합함으로써 다양한 데이터셋(CIFAR-10, CIFAR-100, SVHN, ImageNet 등)에서 **최신 성능**을 경신했다.[1]
