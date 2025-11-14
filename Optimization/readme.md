@@ -55,6 +55,7 @@
 - Learning Disentangled Semantic Representation for Domain Adaptation | 2020 · 182회 인용
 - Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation | 2019 · 690회 인용
 - Transferable Adversarial Training: A General Approach to Adapting Deep Classifiers | 2019 · 326회 인용
+- Drop to Adapt: Learning Discriminative Features for Unsupervised Domain Adaptation | 2019 · 249회 인용
 
 
 
