@@ -67,6 +67,7 @@
 - Domain Conditioned Adaptation Network | 2020 · 144회 인용
 - HoMM: Higher-order Moment Matching for Unsupervised Domain Adaptation | 2019 · 282회 인용
 - Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation | 2018 · 289회 인용
+- Unbalanced minibatch Optimal Transport; applications to Domain Adaptation | 2021 · 215회 인용
 
 
 
