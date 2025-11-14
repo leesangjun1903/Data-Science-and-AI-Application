@@ -58,6 +58,7 @@
 - Transferable Adversarial Training: A General Approach to Adapting Deep Classifiers | 2019 · 326회 인용
 - Drop to Adapt: Learning Discriminative Features for Unsupervised Domain Adaptation | 2019 · 249회 인용
 - Cluster Alignment with a Teacher for Unsupervised Domain Adaptation | 2019 · 319회 인용
+- Unsupervised Domain Adaptation via Regularized Conditional Alignment | 2019 · 168회 인용
 
 
 
