@@ -69,6 +69,7 @@
 - Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation | 2018 · 289회 인용
 - Unbalanced minibatch Optimal Transport; applications to Domain Adaptation | 2021 · 215회 인용
 - Graph Optimal Transport for Cross-Domain Alignment | 2020 · 240회 인용
+- Reliable Weighted Optimal Transport for Unsupervised Domain Adaptation | 2020 · 194회 인용
 
 
 
