@@ -63,6 +63,7 @@
 - GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation | 2019 · 177회 인용
 - Domain-Symmetric Networks for Adversarial Domain Adaptation | 2019 · 468회 인용
 - Transferable Representation Learning with Deep Adaptation Networks | 2018 · 711회 인용
+- Robust Unsupervised Domain Adaptation for Neural Networks via Moment Alignment | 2017 · 122회 인용
 
 
 
