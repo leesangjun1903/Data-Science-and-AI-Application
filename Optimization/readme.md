@@ -53,6 +53,7 @@
 - Transfer Learning with Dynamic Adversarial Adaptation Network | 2019 · 469회 인용
 - Joint Adversarial Domain Adaptation | 2019 · 144회 인용
 - Learning Disentangled Semantic Representation for Domain Adaptation | 2020 · 182회 인용
+- Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation | 2019 · 690회 인용
 
 
 
