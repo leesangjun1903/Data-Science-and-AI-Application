@@ -70,6 +70,7 @@
 - Unbalanced minibatch Optimal Transport; applications to Domain Adaptation | 2021 · 215회 인용
 - Graph Optimal Transport for Cross-Domain Alignment | 2020 · 240회 인용
 - Reliable Weighted Optimal Transport for Unsupervised Domain Adaptation | 2020 · 194회 인용
+- Enhanced Transport Distance for Unsupervised Domain Adaptation | 2020 · 276회 인용
 
 
 
