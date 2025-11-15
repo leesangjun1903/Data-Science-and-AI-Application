@@ -37,8 +37,6 @@
 - Awesome Deep Learning : https://github.com/ChristosChristofidis/awesome-deep-learning?tab=readme-ov-file#tutorials
 - Awesome - Most Cited Deep Learning Papers : https://github.com/terryum/awesome-deep-learning-papers
 
-
-
 ## Models
 - Awesome Recurrent Neural Networks https://github.com/kjw0612/awesome-rnn
 - Awesome - Most Cited Deep Learning Papers https://github.com/terryum/awesome-deep-learning-papers
@@ -54,6 +52,12 @@
 ### State Space Model
 - Awesome-state-space-models : https://github.com/radarFudan/Awesome-state-space-models
 
+## MLops
+- Awesome MLOps : https://github.com/visenger/awesome-mlops?tab=readme-ov-file
+
+## Software & Programming
+- Top-down learning path: Machine Learning for Software Engineers : https://github.com/ZuzooVn/machine-learning-for-software-engineers
+- Awesome Machine Learning On Source Code : https://github.com/src-d/awesome-machine-learning-on-source-code
 
 ## Application
 - Project Based Learning https://github.com/tuvtran/project-based-learning
@@ -69,14 +73,7 @@
 ### Community Detection
 - Awesome Community Detection Research Papers : https://github.com/benedekrozemberczki/awesome-community-detection
 
-## MLops
-- Awesome MLOps : https://github.com/visenger/awesome-mlops?tab=readme-ov-file
-
-## Software & Programming
-- Top-down learning path: Machine Learning for Software Engineers : https://github.com/ZuzooVn/machine-learning-for-software-engineers
-- Awesome Machine Learning On Source Code : https://github.com/src-d/awesome-machine-learning-on-source-code
-
-## Challenge
+### Challenge
 - 데이콘 : https://dacon.io/
 - kaggle : https://www.kaggle.com/
 - 캐글 입문서 : https://goldenrabbit.co.kr/?s=%EC%BA%90%EA%B8%80
