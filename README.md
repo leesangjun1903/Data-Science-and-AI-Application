@@ -73,6 +73,10 @@
 ### Community Detection
 - Awesome Community Detection Research Papers : https://github.com/benedekrozemberczki/awesome-community-detection
 
+### Projects
+- Data Science Projects : https://github.com/veb-101/Data-Science-Projects
+- 40+ Data Analytics Projects Ideas in 2025 : https://www.appliedaicourse.com/blog/data-analytics-projects-ideas/
+
 ### Challenge
 - 데이콘 : https://dacon.io/
 - kaggle : https://www.kaggle.com/
@@ -86,6 +90,12 @@
 - ARC Prize 2024 : https://www.kaggle.com/competitions/arc-prize-2024/code?competitionId=67357&sortBy=voteCount&excludeNonAccessedDatasources=true
 
 # ETC
+- The Future of Data Science: Predictions and Trends : https://www.appliedaicourse.com/blog/future-of-data-science/
+- Data Science and Machine Learning: What’s The Difference? : https://www.appliedaicourse.com/blog/data-science-and-machine-learning-whats-the-difference/
+- Is Data Science a Good Career? : https://www.scaler.com/blog/is-data-science-a-good-career/
+- AI in Data Science: Uses, Roles, and Tools : https://www.scaler.com/blog/ai-in-data-science/
+- Top 13 Data Science Programming Languages in 2025 : https://www.appliedaicourse.com/blog/data-science-programming-languages/
+
 - Computer Vision, NLP 논문 리뷰 대가. 220이 넘음. https://kimjy99.github.io/
 - 어쩐지 오늘은, Machine Learning Engineer : https://zzsza.github.io/
 - Dependency inversion principle(DIP), Python, OpenCV, ML https://dsaint31.tistory.com/
