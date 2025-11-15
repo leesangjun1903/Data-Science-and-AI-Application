@@ -1,5 +1,8 @@
 # Tutorial(Studies)
 
+## Awesome Series
+- Machine Learning & Deep Learning Tutorials : https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md
+
 ## Studies
 ### Carprice prediction : 
 https://medium.com/@madanflies/linear-regression-on-carprice-dataset-or-encoding-a-categorical-dataset-in-linear-regression-7378f207e5c1
