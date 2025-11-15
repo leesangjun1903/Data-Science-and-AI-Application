@@ -2,3 +2,4 @@
 
 # Awesome Series
 - Awesome Machine Learning : https://github.com/josephmisiti/awesome-machine-learning
+- Awesome Dataviz : https://github.com/hal9ai/awesome-dataviz
