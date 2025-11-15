@@ -1,6 +1,7 @@
 # Awesome Graph Neural Networks
-- Awesome resources on Graph Neural Networks. : https://github.com/TrustAGI-Lab/Awesome-Graph-Neural-Networks?tab=readme-ov-file
 - Awesome Graph Classification : https://github.com/benedekrozemberczki/awesome-graph-classification
+
+- Awesome resources on Graph Neural Networks. : https://github.com/TrustAGI-Lab/Awesome-Graph-Neural-Networks
 - Awesome-Federated-Learning-on-Graph-and-GNN-papers : https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers
 - Awesome Graph Neural Network Systems : https://github.com/ch-wan/awesome-gnn-systems
 - GNNs and related works list : https://github.com/hazdzz/awesome-gnn
