@@ -5,4 +5,6 @@
 
 # Awesome Series
 - Awesome Machine Learning : https://github.com/josephmisiti/awesome-machine-learning
+- Best-of Machine Learning with Python : https://github.com/lukasmasuch/best-of-ml-python
+
 - Awesome Dataviz : https://github.com/hal9ai/awesome-dataviz
