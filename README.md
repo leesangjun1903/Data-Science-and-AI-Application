@@ -30,6 +30,9 @@
 - GPT OSS : https://openai.com/ko-KR/open-models/, https://gpt-oss.com/
 
 # Awesome series
+## Data Science
+- Awesome Data Analysis : https://github.com/PavelGrigoryevDS/awesome-data-analysis
+
 ## Awesome AI
 - Awesome AI & Data GitHub-Repos https://github.com/youssefHosni/Awesome-AI-Data-GitHub-Repos?tab=readme-ov-file
 - Awesome Deep Learning https://github.com/ChristosChristofidis/awesome-deep-learning
