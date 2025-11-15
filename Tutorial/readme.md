@@ -64,4 +64,4 @@ https://medium.com/@madanflies/linear-regression-on-carprice-dataset-or-encoding
 - Deep Understanding Of Deep Learning : https://github.com/mikexcohen/DeepUnderstandingOfDeepLearning/tree/main
 - (DMQA) Python-codes-for-machine-learning-algorithms : https://github.com/DMQA/Python-codes-for-machine-learning-algorithms
 - Top DeepLearning tutorials and curated projects : https://github.com/ajay-sreeram/Deep-Learning-is-Awesome?tab=readme-ov-file
-
+- TensorFlow Examples : https://github.com/aymericdamien/TensorFlow-Examples
