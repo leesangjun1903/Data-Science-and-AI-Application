@@ -84,6 +84,7 @@
 
 ### Projects
 - Data Science Projects : https://github.com/veb-101/Data-Science-Projects
+- Randy Olson's data analysis and machine learning projects : https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects
 - 40+ Data Analytics Projects Ideas in 2025 : https://www.appliedaicourse.com/blog/data-analytics-projects-ideas/
 - Data Science Projects : https://github.com/veb-101/Data-Science-Projects
 - Complete-Life-Cycle-of-a-Data-Science-Project : https://github.com/achuthasubhash/Complete-Life-Cycle-of-a-Data-Science-Project
