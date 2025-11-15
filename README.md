@@ -79,6 +79,8 @@
 ### Projects
 - Data Science Projects : https://github.com/veb-101/Data-Science-Projects
 - 40+ Data Analytics Projects Ideas in 2025 : https://www.appliedaicourse.com/blog/data-analytics-projects-ideas/
+- Data Science Projects : https://github.com/veb-101/Data-Science-Projects
+- Data Analytics Projects : https://github.com/arjunmann73/Data-Analytics-Projects
 
 ### Challenge
 - 데이콘 : https://dacon.io/
