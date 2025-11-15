@@ -34,11 +34,14 @@
 - Awesome Data Analysis : https://github.com/PavelGrigoryevDS/awesome-data-analysis
 
 ## Awesome AI
-- Awesome AI & Data GitHub-Repos https://github.com/youssefHosni/Awesome-AI-Data-GitHub-Repos?tab=readme-ov-file
+- Awesome Machine Learning : https://github.com/josephmisiti/awesome-machine-learning
 - Awesome Deep Learning https://github.com/ChristosChristofidis/awesome-deep-learning
 - Awesome Deep learning papers and other resources : https://github.com/endymecy/awesome-deeplearning-resources
 - Awesome Deep Learning : https://github.com/ChristosChristofidis/awesome-deep-learning?tab=readme-ov-file#tutorials
 - Awesome - Most Cited Deep Learning Papers : https://github.com/terryum/awesome-deep-learning-papers
+
+- Awesome AI & Data GitHub-Repos https://github.com/youssefHosni/Awesome-AI-Data-GitHub-Repos?tab=readme-ov-file
+
 
 ## Models
 - Awesome Recurrent Neural Networks https://github.com/kjw0612/awesome-rnn
