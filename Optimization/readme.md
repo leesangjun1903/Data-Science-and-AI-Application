@@ -72,6 +72,7 @@
 - Reliable Weighted Optimal Transport for Unsupervised Domain Adaptation | 2020 · 194회 인용
 - Enhanced Transport Distance for Unsupervised Domain Adaptation | 2020 · 276회 인용
 - DeepJDOT: Deep Joint Distribution Optimal Transport for Unsupervised Domain Adaptation | 2018 · 628회 인용
+- Cycle Self-Training for Domain Adaptation | 2021 · 255회 인용
 
 
 
