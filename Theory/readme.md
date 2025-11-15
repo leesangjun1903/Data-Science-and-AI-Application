@@ -1,6 +1,3 @@
-- 데이터 과학 학부 과정을 스스로, 무료로 이수하고 싶은 분들을 위한 과정 : https://github.com/ossu/data-science
-
-- List of Data Science/Big Data Resources : https://github.com/chaconnewu/free-data-science-books
 
 
 # Machine Learning Theory
