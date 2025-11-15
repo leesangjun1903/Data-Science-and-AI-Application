@@ -1,6 +1,11 @@
 # Data Science
+- Data Science for Beginners - A Curriculum : https://github.com/microsoft/Data-Science-For-Beginners
+
+- 머신 러닝, 데이터 과학, 확률, SQL, 빅데이터에 대한 28개의 치트시트 : https://github.com/yash42828/Data-Science--All-Cheat-Sheet
 - Glossary of common Machine Learning, Statistics and Data Science terms : https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
 - Best Data Science Courses with Certificates [2025] : https://www.appliedaicourse.com/blog/best-data-science-courses/
+
+
 
 # AI
 
