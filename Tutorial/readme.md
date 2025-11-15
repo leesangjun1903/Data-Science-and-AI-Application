@@ -1,5 +1,6 @@
 # Data Science
 - Glossary of common Machine Learning, Statistics and Data Science terms : https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
+- Best Data Science Courses with Certificates [2025] : https://www.appliedaicourse.com/blog/best-data-science-courses/
 
 # AI
 
