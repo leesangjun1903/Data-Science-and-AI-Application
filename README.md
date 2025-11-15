@@ -66,12 +66,15 @@
 ### Protein Structure Prediction
 - Awesome Protein Structure Prediction and Design Software List : https://github.com/pansapiens/awesome-protein-design-software?tab=readme-ov-file
 
+### Community Detection
+- Awesome Community Detection Research Papers : https://github.com/benedekrozemberczki/awesome-community-detection
+
 ## MLops
 - Awesome MLOps : https://github.com/visenger/awesome-mlops?tab=readme-ov-file
 
-
-## Software 
+## Software & Programming
 - Top-down learning path: Machine Learning for Software Engineers : https://github.com/ZuzooVn/machine-learning-for-software-engineers
+- Awesome Machine Learning On Source Code : https://github.com/src-d/awesome-machine-learning-on-source-code
 
 ## Challenge
 - 데이콘 : https://dacon.io/
