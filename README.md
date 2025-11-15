@@ -69,6 +69,10 @@
 ## MLops
 - Awesome MLOps : https://github.com/visenger/awesome-mlops?tab=readme-ov-file
 
+
+## Software 
+- Top-down learning path: Machine Learning for Software Engineers : https://github.com/ZuzooVn/machine-learning-for-software-engineers
+
 ## Challenge
 - 데이콘 : https://dacon.io/
 - kaggle : https://www.kaggle.com/
