@@ -99,6 +99,11 @@
 - AI in Data Science: Uses, Roles, and Tools : https://www.scaler.com/blog/ai-in-data-science/
 - Top 13 Data Science Programming Languages in 2025 : https://www.appliedaicourse.com/blog/data-science-programming-languages/
 
+## Gen AI
+- https://www.appliedaicourse.com/blog/generative-ai-models/
+- https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work
+- https://www.techtarget.com/searchenterpriseai/definition/generative-AI
+
 - Computer Vision, NLP 논문 리뷰 대가. 220이 넘음. https://kimjy99.github.io/
 - 어쩐지 오늘은, Machine Learning Engineer : https://zzsza.github.io/
 - Dependency inversion principle(DIP), Python, OpenCV, ML https://dsaint31.tistory.com/
