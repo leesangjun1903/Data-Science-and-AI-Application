@@ -1,4 +1,7 @@
-# Tutorial(Studies)
+# Data Science
+- Glossary of common Machine Learning, Statistics and Data Science terms : https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
+
+# AI
 
 ## Awesome Series
 - Machine Learning & Deep Learning Tutorials : https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md
