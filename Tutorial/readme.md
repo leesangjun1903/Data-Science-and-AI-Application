@@ -6,7 +6,6 @@
 - Best Data Science Courses with Certificates [2025] : https://www.appliedaicourse.com/blog/best-data-science-courses/
 
 
-
 # AI
 
 ## Awesome Series
@@ -18,8 +17,14 @@ https://medium.com/@madanflies/linear-regression-on-carprice-dataset-or-encoding
 > Linear Regression on CarPrice dataset.ipynb
 
 ## Lecture with Theory(video, pdf)
+- Computer Science courses with video lectures : https://github.com/Developer-Y/cs-video-courses
+
+- 데이터 과학 학부 과정을 스스로, 무료로 이수하고 싶은 분들을 위한 과정 : https://github.com/ossu/data-science
+- List of Data Science/Big Data Resources : https://github.com/chaconnewu/free-data-science-books
+
+
 - https://learn.deeplearning.ai/ : 앤드류 응의 다양한 교육
-- Computer Science courses with video lectures https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file#machine-learning
+
 - Mathematical Statistics https://ocw.mit.edu/courses/18-655-mathematical-statistics-spring-2016/pages/lecture-notes/
 - Statistical Learning Theory And Applications https://ocw.mit.edu/courses/9-520-statistical-learning-theory-and-applications-spring-2003/pages/lecture-notes/
 - ML for Engineers https://ml-course.github.io/master/intro.html#
@@ -32,8 +37,9 @@ https://medium.com/@madanflies/linear-regression-on-carprice-dataset-or-encoding
 - 텐서 플로우 블로그 (Tensor ≈ Blog) https://tensorflow.blog/book-roadmap/
 - 핸즈온 머신러닝(2판) https://formal.hknu.ac.kr/handson-ml2/
 - Awesome deep learning and machine learning tutorials : https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#datasets
-- Great-Deep-Learning-Tutorials : https://github.com/ahkarami/Great-Deep-Learning-Tutorials?tab=readme-ov-file
-- DeepLearning-Summary : https://github.com/taki0112/Awesome-DeepLearning-Study?tab=readme-ov-file
+- Great-Deep-Learning-Tutorials : https://github.com/ahkarami/Great-Deep-Learning-Tutorials
+- DeepLearning-Summary : https://github.com/taki0112/Awesome-DeepLearning-Study
+
 
 ## Lecture with site(code)
 - Project Based Learning : https://github.com/practical-tutorials/project-based-learning
