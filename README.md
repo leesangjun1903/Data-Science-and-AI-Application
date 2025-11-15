@@ -62,6 +62,9 @@
 - Top-down learning path: Machine Learning for Software Engineers : https://github.com/ZuzooVn/machine-learning-for-software-engineers
 - Awesome Machine Learning On Source Code : https://github.com/src-d/awesome-machine-learning-on-source-code
 
+## Feature Engineering
+- Feature Engineering & Feature Selection : https://github.com/ashishpatel26/Amazing-Feature-Engineering
+
 ## Application
 - Project Based Learning https://github.com/tuvtran/project-based-learning
 - Winning solutions of kaggle competitions : https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook
@@ -80,6 +83,8 @@
 - Data Science Projects : https://github.com/veb-101/Data-Science-Projects
 - 40+ Data Analytics Projects Ideas in 2025 : https://www.appliedaicourse.com/blog/data-analytics-projects-ideas/
 - Data Science Projects : https://github.com/veb-101/Data-Science-Projects
+- Complete-Life-Cycle-of-a-Data-Science-Project : https://github.com/achuthasubhash/Complete-Life-Cycle-of-a-Data-Science-Project
+
 - Data Analytics Projects : https://github.com/arjunmann73/Data-Analytics-Projects
 
 ### Challenge
