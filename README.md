@@ -15,8 +15,6 @@
 - Towards Data Science : https://towardsdatascience.com/
 
 # Awesome series
-## Data Science
-- Awesome Data Analysis : https://github.com/PavelGrigoryevDS/awesome-data-analysis
 
 ## Awesome AI
 - Awesome Deep Learning : https://github.com/ChristosChristofidis/awesome-deep-learning
