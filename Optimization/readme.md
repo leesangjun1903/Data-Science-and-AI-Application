@@ -3,7 +3,7 @@
 
 ## Awesome Series
 - Awesome Machine Learning for Combinatorial Optimization Resources : https://github.com/Thinklab-SJTU/awesome-ml4co
-- awesome-domain-adaptation : https://github.com/zhaoxin94/awesome-domain-adaptation?tab=readme-ov-file#papers
+- awesome-domain-adaptation : https://github.com/zhaoxin94/awesome-domain-adaptation
 - Awesome Pruning : https://github.com/he-y/Awesome-Pruning
 
 
