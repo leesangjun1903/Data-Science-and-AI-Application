@@ -199,3 +199,7 @@ Matrix Factorization
 The Linear Algebra of Similarity  
 The Linear Algebra of Graphs  
 Optimization in Computational Graphs  
+
+
+## Bayesian Methods for Hackers, Cameron Davidson-Pilon 
+https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
