@@ -75,6 +75,7 @@
 - Enhanced Transport Distance for Unsupervised Domain Adaptation | 2020 · 276회 인용
 - DeepJDOT: Deep Joint Distribution Optimal Transport for Unsupervised Domain Adaptation | 2018 · 628회 인용
 - Cycle Self-Training for Domain Adaptation | 2021 · 255회 인용
+- Instance Adaptive Self-Training for Unsupervised Domain Adaptation | 2020 · 412회 인용
 
 
 
