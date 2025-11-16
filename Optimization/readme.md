@@ -2,8 +2,10 @@
 > ## Learning Hyperparameter Tuning, Loss function(Cost function), Objective function optimization, Representation Learning, Meta-Learning, Few-Shot Learning, Multi-task Learning, Domain Adaption, Metric Learning, PU-Learning(Positive-Unlabeled Learning), Curriculum Learning, Activation function, Layer Fine-Tuning, Topos and stacks(Not verified)
 
 ## Awesome Series
-- Awesome Machine Learning for Combinatorial Optimization Resources : https://github.com/Thinklab-SJTU/awesome-ml4co
 - awesome-domain-adaptation : https://github.com/zhaoxin94/awesome-domain-adaptation
+
+
+- Awesome Machine Learning for Combinatorial Optimization Resources : https://github.com/Thinklab-SJTU/awesome-ml4co
 - Awesome Pruning : https://github.com/he-y/Awesome-Pruning
 
 
