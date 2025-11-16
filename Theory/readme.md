@@ -1,6 +1,9 @@
 
 
 # Machine Learning Theory
+
+- Basic-Mathematics-for-Machine-Learning : https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning
+
 ## Python Machine Learning for Beginners, 
 Chapter 1: Introduction and Environment Set Up  
 Chapter 2: Python Crash Course  
