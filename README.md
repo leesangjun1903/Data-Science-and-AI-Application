@@ -18,7 +18,7 @@
 
 ## Awesome AI
 - Awesome Deep Learning : https://github.com/ChristosChristofidis/awesome-deep-learning
-- Awesome Deep learning papers and other resources : https://github.com/endymecy/awesome-deeplearning-resources
+- Awesome Deep learning papers(~2020) and other resources : https://github.com/endymecy/awesome-deeplearning-resources
 
 - Awesome - Most Cited Deep Learning Papers : https://github.com/terryum/awesome-deep-learning-papers
 - Papers in 100 Lines of Code : https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code
