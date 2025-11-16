@@ -14,8 +14,6 @@
 - 머신러닝 레딧 https://www.reddit.com/r/MachineLearning/
 - Towards Data Science : https://towardsdatascience.com/
 
-# Dataset
-- AI-HUB : https://www.aihub.or.kr/
 
 # Chatbot
 - Chatgpt
