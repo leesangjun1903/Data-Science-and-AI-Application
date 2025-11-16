@@ -77,6 +77,9 @@
 ## Learning with Noisy Labels
 - Awesome Learning with Noisy Labels : https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise
 
+## Federated Machine Learning
+- Awesome Federated Machine Learning : https://github.com/innovation-cat/Awesome-Federated-Machine-Learning
+
 ## Application
 - Project Based Learning https://github.com/tuvtran/project-based-learning
 - Winning solutions of kaggle competitions : https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook
