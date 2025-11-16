@@ -16,6 +16,9 @@
 https://medium.com/@madanflies/linear-regression-on-carprice-dataset-or-encoding-a-categorical-dataset-in-linear-regression-7378f207e5c1
 > Linear Regression on CarPrice dataset.ipynb
 
+### NLP
+- nlp-tutorial(tensorflow) : https://github.com/graykode/nlp-tutorial
+
 ## Lecture with Theory(video, pdf)
 - Computer Science courses with video lectures : https://github.com/Developer-Y/cs-video-courses
 
