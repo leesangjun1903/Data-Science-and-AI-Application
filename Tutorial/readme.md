@@ -35,6 +35,7 @@
 - 핸즈온 머신러닝(2판) https://formal.hknu.ac.kr/handson-ml2/
 - Awesome deep learning and machine learning tutorials : https://github.com/Burton2000/Awesome-DeepLearning-Tutorials#datasets
 
+- 11-785 Introduction to Deep Learning : https://deeplearning.cs.cmu.edu/F25/index.html
 
 ## With site(code)
 - Project Based Learning : https://github.com/practical-tutorials/project-based-learning
