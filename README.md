@@ -14,19 +14,6 @@
 - 머신러닝 레딧 https://www.reddit.com/r/MachineLearning/
 - Towards Data Science : https://towardsdatascience.com/
 
-
-# Chatbot
-- Chatgpt
-- Perplexity
-- Gemini : https://gemini.google.com/app
-- Deepseekcode : https://chat.deepseek.com/
-- Claude
-- Qwen : https://chat.qwen.ai/
-- 에이닷 : https://adot.ai/search/
-- Mistral : https://chat.mistral.ai/chat
-- Kimi : https://www.kimi.com/
-- GPT OSS : https://openai.com/ko-KR/open-models/, https://gpt-oss.com/
-
 # Awesome series
 ## Data Science
 - Awesome Data Analysis : https://github.com/PavelGrigoryevDS/awesome-data-analysis
