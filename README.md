@@ -34,7 +34,6 @@
 - Awesome Data Analysis : https://github.com/PavelGrigoryevDS/awesome-data-analysis
 
 ## Awesome AI
-- Awesome Machine Learning : https://github.com/josephmisiti/awesome-machine-learning
 - Awesome Deep Learning : https://github.com/ChristosChristofidis/awesome-deep-learning
 - Awesome Deep learning papers and other resources : https://github.com/endymecy/awesome-deeplearning-resources
 - Awesome Deep Learning : https://github.com/ChristosChristofidis/awesome-deep-learning?tab=readme-ov-file#tutorials
