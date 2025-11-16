@@ -2,6 +2,8 @@
 
 - statsmodels : https://github.com/statsmodels/statsmodels
 
+- TensorFlow Probability : https://github.com/tensorflow/probability
+
 - Data Science Resources : https://github.com/jonathan-bower/DataScienceResources
 - Data Science Collected Resources : https://github.com/tirthajyoti/Data-science-best-resources
 
