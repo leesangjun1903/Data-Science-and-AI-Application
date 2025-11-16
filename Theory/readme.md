@@ -423,6 +423,8 @@ Machine Learning
 Deep Learning  
 
 ## Practical Statistics for Data Scientists, Peter Bruce
+https://github.com/gedeck/practical-statistics-for-data-scientists
+
 Exploratory Data Analysis  
 Data and Sampling Distributions  
 Statistical Experiments and Significance Testing  
