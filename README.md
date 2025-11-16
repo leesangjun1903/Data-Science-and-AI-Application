@@ -71,6 +71,9 @@
 ## Feature Engineering
 - Feature Engineering & Feature Selection : https://github.com/ashishpatel26/Amazing-Feature-Engineering
 
+## Learning with Noisy Labels
+- Awesome Learning with Noisy Labels : https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise
+
 ## Application
 - Project Based Learning https://github.com/tuvtran/project-based-learning
 - Winning solutions of kaggle competitions : https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions/notebook
