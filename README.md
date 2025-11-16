@@ -34,7 +34,7 @@
 ## Awesome AI
 - Awesome Deep Learning : https://github.com/ChristosChristofidis/awesome-deep-learning
 - Awesome Deep learning papers and other resources : https://github.com/endymecy/awesome-deeplearning-resources
-- Awesome Deep Learning : https://github.com/ChristosChristofidis/awesome-deep-learning?tab=readme-ov-file#tutorials
+
 - Awesome - Most Cited Deep Learning Papers : https://github.com/terryum/awesome-deep-learning-papers
 - Must Read Papers for Data Science, ML, and DL : https://github.com/hurshd0/must-read-papers-for-ml
 
