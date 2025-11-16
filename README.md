@@ -35,6 +35,8 @@
 - Awesome Recurrent Neural Networks https://github.com/kjw0612/awesome-rnn
 - Awesome - Most Cited Deep Learning Papers https://github.com/terryum/awesome-deep-learning-papers
 
+### Spiking Neural Networks
+> Spiking Neural Networks, SNN은 인간의 뇌 신경망 작동 방식을 가장 유사하게 모방한 차세대 인공 신경망 모델입니다. 기존의 인공 신경망(ANN)이나 딥러닝(DNN)과는 달리, 정보를 이산적인 전기 신호인 '스파이크(Spike)'의 발생 타이밍과 빈도를 이용해 전달하고 처리합니다.
 - Awesome Spiking Neural Networks : https://github.com/TheBrainLab/Awesome-Spiking-Neural-Networks
 
 ### Genetic Algorithms
