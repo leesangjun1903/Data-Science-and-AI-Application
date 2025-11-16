@@ -60,7 +60,12 @@
 - Awesome-state-space-models : https://github.com/radarFudan/Awesome-state-space-models
 
 ## MLops
-- Awesome MLOps : https://github.com/visenger/awesome-mlops?tab=readme-ov-file
+- MLOps Zoomcamp: A Free 9-Week Course on Productionizing ML Services : https://github.com/DataTalksClub/mlops-zoomcamp
+- Awesome MLOps : https://github.com/visenger/awesome-mlops
+- MLOps-Basics : https://github.com/graviraja/MLOps-Basics
+- MLOps 가이드 : https://mlops-guide.github.io/
+- Awesome MLOps : https://github.com/kelvins/awesome-mlops
+- Machine Learning Operations : https://skaftenicki.github.io/dtu_mlops/
 
 ## Software & Programming
 - Top-down learning path: Machine Learning for Software Engineers : https://github.com/ZuzooVn/machine-learning-for-software-engineers
