@@ -82,6 +82,7 @@
 - The Large Learning Rate Phase of Deep Learning: The Catapult Mechanism | 2020 · 300회 인용
 - When NAS Meets Robustness: In Search of Robust Architectures against Adversarial Attacks | 2019 · 226회 인용
 - Regularized Evolution for Image Classifier Architecture Search | 2018 · 4029회 인용
+- ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware | 2018 · 2555회 인용
 
 
 
