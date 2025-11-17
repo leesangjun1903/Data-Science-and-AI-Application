@@ -79,6 +79,7 @@
 - Self-training Avoids Using Spurious Features Under Domain Shift | 2020 · 100회 인용
 - Fast Differentiable Sorting and Ranking | 2020 · 318회 인용
 - Learning with Diﬀerentiable Perturbed Optimizers | 2020 · 353회 인용
+- The Large Learning Rate Phase of Deep Learning: The Catapult Mechanism | 2020 · 300회 인용
 
 
 
