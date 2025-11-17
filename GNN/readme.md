@@ -35,6 +35,7 @@
 - Disentangling and Unifying Graph Convolutions for Skeleton-Based Action Recognition | 2020 · 1467회 인용
 - Generalization and Representational Limits of Graph Neural Networks | 2020 · 429회 인용
 - SIGN: Scalable Inception Graph Neural Networks | 2020 · 333회 인용
+- MAGNET: Multi-Label Text Classification using Attention-based Graph Neural Network : 2020 · 158회 인용
 
 
 - Application(Computer Vision, NLP, Social Network(Internet), Recommend System, Healthcare, Chemistry, Physics)
