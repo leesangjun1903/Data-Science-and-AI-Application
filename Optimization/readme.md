@@ -87,6 +87,7 @@
 - Neural Architecture Search with Reinforcement Learning | 2016 · 7690회 인용
 - NASNet : Learning Transferable Architectures for Scalable Image Recognition | 2017 · 8417회 인용
 - MnasNet: Platform-Aware Neural Architecture Search for Mobile | 2018 · 4416회 인용
+- Hierarchical Representations for Efficient Architecture Search | 2017 · 1246회 인용
 
 
 
