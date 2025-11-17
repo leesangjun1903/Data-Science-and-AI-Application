@@ -1,5 +1,8 @@
 # Other Models Except DNN. New Architectures.
 > PINN
+
 > Genetic Algorithm
+
 > KAN 
+
 > Knowledge Graph Embedding Model(KGE)
