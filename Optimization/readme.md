@@ -85,6 +85,7 @@
 - ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware | 2018 · 2555회 인용
 - Progressive Neural Architecture Search | 2017 · 2694회 인용
 - Neural Architecture Search with Reinforcement Learning | 2016 · 7690회 인용
+- NASNet : Learning Transferable Architectures for Scalable Image Recognition | 2017 · 8417회 인용
 
 
 
