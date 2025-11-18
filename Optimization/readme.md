@@ -90,6 +90,7 @@
 - Hierarchical Representations for Efficient Architecture Search | 2017 · 1246회 인용
 - DARTS: Differentiable Architecture Search | 2018 · 6289회 인용
 - Gryﬃn: An algorithm for Bayesian optimization of categorical variables informed by expert knowledge | 2020 · 178회 인용
+- Learned Initializations for Optimizing Coordinate-Based Neural Representations | 2020 · 366회 인용
 
 
 
