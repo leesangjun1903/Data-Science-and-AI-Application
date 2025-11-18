@@ -33,7 +33,6 @@
 
 
 ## Models
-- Awesome Recurrent Neural Networks https://github.com/kjw0612/awesome-rnn
 - Awesome - Most Cited Deep Learning Papers https://github.com/terryum/awesome-deep-learning-papers
 
 ### Spiking Neural Networks
