@@ -91,6 +91,7 @@
 - DARTS: Differentiable Architecture Search | 2018 · 6289회 인용
 - Gryﬃn: An algorithm for Bayesian optimization of categorical variables informed by expert knowledge | 2020 · 178회 인용
 - Learned Initializations for Optimizing Coordinate-Based Neural Representations | 2020 · 366회 인용
+- Multiplicative Filter Networks | 2021 . 202회 인용
 
 
 
