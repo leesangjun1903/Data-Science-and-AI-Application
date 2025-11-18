@@ -92,6 +92,7 @@
 - Gryﬃn: An algorithm for Bayesian optimization of categorical variables informed by expert knowledge | 2020 · 178회 인용
 - Learned Initializations for Optimizing Coordinate-Based Neural Representations | 2020 · 366회 인용
 - Multiplicative Filter Networks | 2021 . 202회 인용
+- Likelihood-Free MCMC with Amortized Approximate Ratio Estimators | 2019 · 248회 인용
 
 
 
