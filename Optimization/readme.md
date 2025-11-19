@@ -94,6 +94,7 @@
 - Multiplicative Filter Networks | 2021 . 202회 인용
 - Likelihood-Free MCMC with Amortized Approximate Ratio Estimators | 2019 · 248회 인용
 - Optimizing Millions of Hyperparameters by Implicit Differentiation | 2019 · 564회 인용
+- On Model Stability as a Function of Random Seed | 2019 · 102회 인용
 
 
 
