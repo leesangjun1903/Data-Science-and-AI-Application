@@ -12,6 +12,7 @@
 - Interpretability Techniques for Deep Learning : https://paperswithcode.com/task/interpretability-techniques-for-deep-learning
 
 ## Papers
+- Show, Attend and Tell: Neural Image Caption Generation with Visual Attention | 2015 · 14181회 인용
 - Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization | 2016 · 33424회 인용
 - Integrated Gradients : Axiomatic Attribution for Deep Networks | 2017 · 8996회 인용
 - SHAP : A Unified Approach to Interpreting Model Predictions | 2017 · 42577회 인용
