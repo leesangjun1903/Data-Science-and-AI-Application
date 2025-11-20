@@ -220,3 +220,6 @@ SHAP와 GradCAM을 결합한 연구처럼, **Relevance-CAM과 다른 방법들�
 [60](https://hellopotatoworld.tistory.com/17)
 [61](https://www.koreascience.kr/article/JAKO202514739605327.pdf)
 [62](https://velog.io/@jus6886/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0Layer-Wise-Relevance-PropagationAn-Overview)
+
+- [Relevance-CAM 논문 리뷰] - Relevance-CAM: Your Model Already Knows Where to Look :
+https://kyujinpy.tistory.com/63
