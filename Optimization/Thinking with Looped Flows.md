@@ -1,7 +1,5 @@
 # Thinking with Looped Flows
 
-**분석 대상은 첨부된 arXiv:2609.11801v1, 2026년 9월 10일 버전이며, 아래 페이지 번호는 PDF에 인쇄된 쪽수입니다.** 외부 연구 비교에는 2026년 10월 6일 확인한 원문을 사용했습니다. 특히 가까운 비교 대상인 Flow Reasoning Models는 본 논문 참고문헌에 적힌 초기 제목과 현재 v3의 제목·방법이 달라, 이를 구분했습니다. [arXiv](https://arxiv.org/abs/2609.11801)
-
 ---
 
 ## 1. Executive summary — 8문장
