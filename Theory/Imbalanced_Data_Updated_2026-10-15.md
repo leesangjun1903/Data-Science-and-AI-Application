@@ -303,7 +303,7 @@ SMOTE로 두 클래스 개수를 정확히 같게 만든 뒤 분류기가 `class
 $$
 \hat y=\begin{cases}
 1 & \text{점수}\ge t\\
-0 & \text{점수}<t
+0 & \text{점수} < t
 \end{cases}
 $$
 
