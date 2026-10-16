@@ -1,4 +1,4 @@
-# Cross Entropy(크로스 엔트로피) 이해하기
+# Cross Entropy 이해하기
 
 > **먼저 기억할 문장:** 정답이 하나로 주어진 분류 문제에서 크로스 엔트로피는 **모델이 정답에 얼마나 낮은 확률을 주었는지 평가하는 손실**이다. 정답에 높은 확률을 주면 손실이 작고, 낮은 확률을 주면 손실이 크다.
 
@@ -261,7 +261,7 @@ $N$은 표본 수, $C$는 클래스 수다. $y_{ij}$는 표본 $i$의 클래스 
 각 클래스의 로짓을 합이 1인 확률로 바꾸는 대표적인 함수는 소프트맥스다.
 
 $$
-q_j=\operatorname{softmax}(\mathbf z)_j
+q_j=\text{softmax}(\mathbf z)_j
 =\frac{e^{z_j}}{\sum_{k=1}^{C}e^{z_k}}
 $$
 
@@ -283,7 +283,7 @@ $$
 
 미분은 **모델의 점수를 어느 방향으로 바꾸면 손실이 줄어드는지** 알려준다.
 
-자연로그를 사용하는 한 표본의 손실을 생각하자. 클래스 가중치가 없고 $\sum_j y_j=1$, $\mathbf q=\operatorname{softmax}(\mathbf z)$이면:
+자연로그를 사용하는 한 표본의 손실을 생각하자. 클래스 가중치가 없고 $\sum_j y_j=1$, $\mathbf q=\text{softmax}(\mathbf z)$이면:
 
 $$
 L=-\sum_jy_j\ln q_j
@@ -321,13 +321,13 @@ $$
 입력 $x_i$의 관측된 정답 클래스가 $t_i$이고, 입력이 주어졌을 때 표본들의 정답을 독립으로 모델링하면:
 
 $$
-\operatorname{Likelihood}(\theta)=\prod_{i=1}^{N}q_\theta(t_i\mid x_i)
+\text{Likelihood}(\theta)=\prod_{i=1}^{N}q_\theta(t_i\mid x_i)
 $$
 
 여기에 음의 로그를 취하면 **음의 로그우도(NLL)**가 된다.
 
 $$
-\operatorname{NLL}(\theta)=-\sum_{i=1}^{N}\ln q_\theta(t_i\mid x_i)
+\text{NLL}(\theta)=-\sum_{i=1}^{N}\ln q_\theta(t_i\mid x_i)
 $$
 
 따라서 하드 레이블을 사용하는 기본 분류 문제에서:
@@ -452,13 +452,13 @@ $$
 
 정보량은 한 결과의 놀라움이고, 엔트로피는 기준 분포에서의 평균 놀라움이다. 크로스 엔트로피는 **모델의 예측 확률로 계산한 놀라움을 기준 분포에 따라 평균 낸 값**이다.
 
-$$
+```math
 \underbrace{H(P,Q)}_{\text{크로스 엔트로피}}
 =
 \underbrace{H(P)}_{\text{기준 분포의 불확실성}}
 +
 \underbrace{D_{\mathrm{KL}}(P\|Q)}_{\text{분포 불일치에 따른 추가 손실}}
-$$
+```
 
 정답이 하나인 표본에서는 $L=-\ln q_{\text{정답}}$만 기억해도 계산할 수 있다. 다만 **실제 분포와 한 표본의 레이블을 구분하고, 코드에서는 로짓을 안정적인 손실함수에 입력한다**는 점을 함께 기억하자.
 
